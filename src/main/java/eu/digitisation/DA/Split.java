@@ -138,7 +138,7 @@ public class Split {
      * @throws IOException
      */
     public static List<String> headers(Document doc) throws IOException {
-        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<>();
         for (Element e : selector.selectElements(doc)) {
             String head = header(e);
             if (!head.isEmpty()) {
@@ -166,13 +166,12 @@ public class Split {
      * paragraph: punctuation (optional) followed by a mixed case word with only
      * the initial letter is uppercase
      *
-     *
-     * @param word a string
+     * @param text word a string
      * @return true if the string is a sequence of Unicode letters whose first
      * letter is uppercase and all trailing letters are lowercase (optionally,
      * preceded by punctuation)
      */
-    public static boolean isParhead(String text) {
+    public static boolean isParHead(String text) {
         if (text.length() > 0) {
             boolean b = text.matches("(\\p{Punct}|\\p{Space})*\\p{Lu}[\\p{L}&&[^\\p{Lu}]]*((\\p{Punct}|\\p{Space}).*)?");
             return b;
@@ -184,24 +183,15 @@ public class Split {
     /**
      * Function for debugging
      *
-     * @param file
+     * @param file input file
+     * @throws java.io.IOException
      */
-    public static void view(File file) throws IOException {
+    public static void viewHeaders(File file) throws IOException {
         Document doc = SortPageXML.isSorted(file) ? DocumentParser.parse(file)
                 : SortPageXML.sorted(DocumentParser.parse(file));
         for (String head : headers(doc)) {
             System.out.println(head);
         }
-    }
-
-    /**
-     *
-     * @param s a string
-     * @return the first character in the string or \u0000 if the string is
-     * empty
-     */
-    private static char firstChar(String s) {
-        return s.length() > 0 ? s.charAt(0) : '\u0000';
     }
 
     public static String split(File ifile, String last) throws IOException {
@@ -212,13 +202,13 @@ public class Split {
         for (String head : headers(doc)) {
 
             if (!head.isEmpty()) {
-                String start = firstWord(head).replaceAll("ñ", "Ñ");
+                String start = firstWord(head).replaceAll("ñ", "Ñ"); // no N tilde
                 //System.out.println(text);
                 if (WordType.typeOf(start) == WordType.UPPERCASE) {
-                    // Discard conenctors
-                    if (start.length() == 1 && start.matches("[AEOY]")
-                            && start.charAt(0) != last.charAt(0)
-                            || firstChar(start) != firstChar(last)) {
+                    // Discard connectors
+                    if (start.length() == 1 && start.matches("[AOY]")
+                            && last.length() > 0
+                            && Character.codePointAt(start, 0) == Character.codePointAt(last, 0) + 1) {
                         System.out.println("<skip>" + head + "</skip>");
 
                     } else {
@@ -236,7 +226,7 @@ public class Split {
                             last = start;
                         }
                     }
-                } else if (isParhead(head)) {
+                } else if (isParHead(head)) {
                     System.out.println("<skip>" + head + "</skip>");
                 } else {
                     String s = start.replaceAll("l", "I");
@@ -274,7 +264,7 @@ public class Split {
         String lastEntry = "";
         for (String arg : args) {
             File file = new File(arg);
-            //Split.view(file);
+            //Split.viewHeaders(file);
             lastEntry = Split.split(file, lastEntry);
         }
     }

@@ -50,7 +50,7 @@ import org.w3c.dom.Element;
  * Lemas multipalabra. SOLVED</p>
  * <p>
  * Comprobación de consistencia alfabética entre páginas consecutivas.
- * PENDING</p>
+ * SOLVED</p>
  * <p>
  * Participios tras infinitivo, como "BIRLAR ... BIRLADO", violan orden
  * alfabético). SOLVED</p>
@@ -60,7 +60,7 @@ import org.w3c.dom.Element;
  *
  * <p>
  * Error en ordenación: puede estar causado por el lema actual, por el antecesor
- * o por ambos. PENDING</p>
+ * o por ambos. UNSOLVABLE</p>
  *
  * @todo create collator for old Spanish
  */
@@ -183,9 +183,6 @@ public class Split {
         Document doc = SortPageXML.isSorted(ifile) ? DocumentParser.parse(ifile)
                 : SortPageXML.sorted(DocumentParser.parse(ifile));
 
-        System.out.println("-----------------\n" + ifile
-                + "---------------------\n");
-
         for (String head : headers(doc)) {
             if (!head.isEmpty()) {
                 String start = firstWord(head).replaceAll("ñ", "Ñ"); // no N tilde
@@ -262,12 +259,28 @@ public class Split {
         }
     }
 
-    public static void main(String[] args) throws IOException {
-        String lastEntry = "";
-        for (String arg : args) {
-            File file = new File(arg);
-            //Split.viewHeaders(file);
-            lastEntry = Split.split(file, lastEntry);
+    /**
+     * Print entries in a collection of files
+     *
+     * @param args XML file names 
+     */
+    public static void main(String[] args) {
+        if (args.length == 0) {
+            System.err.println("Usage: Split file1.xml file2.xml ...");
+        } else {
+            String lastEntry = "";
+            for (String arg : args) {
+                File file = new File(arg);
+                System.out.println("-----------------");
+                System.out.println(file);
+                System.out.println("-----------------");
+                //Split.viewHeaders(file);  
+                try  {
+                lastEntry = Split.split(file, lastEntry);
+                } catch (IOException ex) {
+                    System.out.println("Wrong file");
+                }
+            }
         }
     }
 }

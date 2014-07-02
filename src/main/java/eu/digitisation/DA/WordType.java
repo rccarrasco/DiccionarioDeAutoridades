@@ -47,7 +47,7 @@ public enum WordType {
      * @return true if the word is a sequence of Unicode letters whose first
      * letter is uppercase and all trailing letters are lowercase 
      */
-    public static boolean isFirstWord(String word) {
+    public static boolean isFirstWordInSentence(String word) {
         return word.matches("\\p{Punct}*\\p{Lu}[\\p{L}&&[^\\p{Lu}]]*");
     }
 

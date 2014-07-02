@@ -35,8 +35,8 @@ public class WordTypeTest {
         assert (WordType.nearlyUpper("MIsTAKE"));
         assert (WordType.nearlyUpper("MIs"));
         assert (!WordType.nearlyUpper("La"));
-        assert (WordType.isFirstWord("L"));
-        assert (WordType.isFirstWord("La"));
-        assert (!WordType.isFirstWord("MIs"));
+        assert (WordType.isFirstWordInSentence("L"));
+        assert (WordType.isFirstWordInSentence("La"));
+        assert (!WordType.isFirstWordInSentence("MIs"));
     }
 }

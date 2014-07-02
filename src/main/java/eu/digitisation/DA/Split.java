@@ -66,9 +66,9 @@ import org.w3c.dom.Element;
  */
 public class Split {
 
-    static XPathFilter selector; // Selects XML elements with relevant content
+    static XPathFilter selector;     // Selects XML elements with relevant content
     final static Collator collator;  // Defines the lexicographic order
-    static CharFilter cfilter; // Map PUA characters
+    static CharFilter cfilter;       // Map PUA characters to standard characters
 
     static {
         String[] inclusions = {"TextRegion[@type='paragraph']"};
@@ -106,7 +106,7 @@ public class Split {
                 case LOWERCASE: // end of header
                     return builder.toString();
                 case MIXED: // striking content
-                    if (WordType.isFirstWord(word)) {
+                    if (WordType.isFirstWordInSentence(word)) {
                         return builder.toString();
                     } else {
                         if (builder.length() > 0) {
@@ -164,33 +164,18 @@ public class Split {
     /**
      * Test if a string can be the initial segment of a new sentence or
      * paragraph: punctuation (optional) followed by a mixed case word with only
-     * the initial letter is uppercase
+     * the initial letter is uppercase and ended by optional punctuation/space
      *
      * @param text word a string
      * @return true if the string is a sequence of Unicode letters whose first
      * letter is uppercase and all trailing letters are lowercase (optionally,
      * preceded by punctuation)
      */
-    public static boolean isParHead(String text) {
+    public static boolean isSentenceHead(String text) {
         if (text.length() > 0) {
-            boolean b = text.matches("(\\p{Punct}|\\p{Space})*\\p{Lu}[\\p{L}&&[^\\p{Lu}]]*((\\p{Punct}|\\p{Space}).*)?");
-            return b;
+            return text.matches("(\\p{Punct}|\\p{Space})*\\p{Lu}[\\p{L}&&[^\\p{Lu}]]*((\\p{Punct}|\\p{Space}).*)?");
         } else {
             return false;
-        }
-    }
-
-    /**
-     * Function for debugging
-     *
-     * @param file input file
-     * @throws java.io.IOException
-     */
-    public static void viewHeaders(File file) throws IOException {
-        Document doc = SortPageXML.isSorted(file) ? DocumentParser.parse(file)
-                : SortPageXML.sorted(DocumentParser.parse(file));
-        for (String head : headers(doc)) {
-            System.out.println(head);
         }
     }
 
@@ -198,18 +183,23 @@ public class Split {
         Document doc = SortPageXML.isSorted(ifile) ? DocumentParser.parse(ifile)
                 : SortPageXML.sorted(DocumentParser.parse(ifile));
 
-        System.out.println("\n" + ifile + "\n");
-        for (String head : headers(doc)) {
+        System.out.println("-----------------\n" + ifile
+                + "---------------------\n");
 
+        for (String head : headers(doc)) {
             if (!head.isEmpty()) {
                 String start = firstWord(head).replaceAll("ñ", "Ñ"); // no N tilde
                 //System.out.println(text);
                 if (WordType.typeOf(start) == WordType.UPPERCASE) {
                     // Discard connectors
                     if (start.length() == 1 && start.matches("[AOY]")
-                            && last.length() > 0
-                            && Character.codePointAt(start, 0) == Character.codePointAt(last, 0) + 1) {
-                        System.out.println("<skip>" + head + "</skip>");
+                            && last.length() > 0) {
+                        if (Character.codePointAt(start, 0)
+                                == Character.codePointAt(last, 0) + 1) {
+                            System.out.println("<check>" + head + "</check>");
+                        } else {
+                            System.out.println("<skip>" + head + "</skip>");
+                        }
 
                     } else {
                         int n = collator.compare(last, start);
@@ -221,17 +211,15 @@ public class Split {
                         } else if (isParticiple(start, last)) {
                             System.out.println("<PastPart>" + head + "</PastPart>");
                         } else {
-                            System.out.println("***");
-                            System.out.println("<entry>" + head + "</entry>");
+                            System.out.println("<check>" + head + "</check>");
                             last = start;
                         }
                     }
-                } else if (isParHead(head)) {
+                } else if (isSentenceHead(head)) {
                     System.out.println("<skip>" + head + "</skip>");
                 } else {
                     String s = start.replaceAll("l", "I");
-                    if (WordType.typeOf(s)
-                            == WordType.UPPERCASE) {
+                    if (WordType.typeOf(s) == WordType.UPPERCASE) {
                         // wrong transcription
                         System.out.println("<Itypo>" + head + "</Itypo>");
                         last = s;
@@ -239,7 +227,7 @@ public class Split {
                         // a single mismatch
                         System.out.println("<check>" + head + "</check>");
                     } else {
-                        System.out.println("<CHECK_THIS>" + head + "</CHECK_THIS>");
+                        System.out.println("<check>" + head + "</check>");
                     }
                 }
             }
@@ -258,6 +246,20 @@ public class Split {
         //System.out.println("="+last.replaceFirst("[AEI]R$", ""));
         return last.replaceFirst("[AEI]R(SE)?$", "")
                 .equals(head.replaceFirst("[AI]DO$", ""));
+    }
+
+    /**
+     * Function for debugging purposes (just print headers)
+     *
+     * @param file input file
+     * @throws java.io.IOException
+     */
+    public static void viewHeaders(File file) throws IOException {
+        Document doc = SortPageXML.isSorted(file) ? DocumentParser.parse(file)
+                : SortPageXML.sorted(DocumentParser.parse(file));
+        for (String head : headers(doc)) {
+            System.out.println(head);
+        }
     }
 
     public static void main(String[] args) throws IOException {

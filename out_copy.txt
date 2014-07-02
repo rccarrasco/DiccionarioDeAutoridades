@@ -1,0 +1,4066 @@
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444481.xml
+-----------------
+
+<entry>EN MADRID:</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444482.xml
+-----------------
+
+<entry>L</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444483.xml
+-----------------
+
+<entry>V. M.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444484.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444485.xml
+-----------------
+
+<check>E</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444486.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444487.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444488.xml
+-----------------
+
+<entry>L</entry>
+<check>2</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444489.xml
+-----------------
+
+<check>3</check>
+<check>4</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444490.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444491.xml
+-----------------
+
+<check>5</check>
+<check>6</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444492.xml
+-----------------
+
+<check>7</check>
+<check>8</check>
+<check>9</check>
+<check>10</check>
+<check>11</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444493.xml
+-----------------
+
+<check>12</check>
+<check>13</check>
+<check>14</check>
+<check>15</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444494.xml
+-----------------
+
+<check>16</check>
+<check>17</check>
+<check>18</check>
+<check>19</check>
+<check>20</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444495.xml
+-----------------
+
+<check>21</check>
+<check>22</check>
+<check>23</check>
+<check>24</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444496.xml
+-----------------
+
+<check>2</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444497.xml
+-----------------
+
+<check>3</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444498.xml
+-----------------
+
+<check>4</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444499.xml
+-----------------
+
+<check>5</check>
+<check>6</check>
+<entry>S E</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444500.xml
+-----------------
+
+<check>7</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444501.xml
+-----------------
+
+<check>8</check>
+<check>9</check>
+<check>EXCmo SEñOR.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444502.xml
+-----------------
+
+<check>I0</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444503.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444504.xml
+-----------------
+
+<skip>A</skip>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444505.xml
+-----------------
+
+<check>11</check>
+<check>12</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444506.xml
+-----------------
+
+<check>13</check>
+<check>14</check>
+<check>15</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444507.xml
+-----------------
+
+<check>16</check>
+<check>E L R E Y.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444508.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444509.xml
+-----------------
+
+<check>17</check>
+<check>18</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444510.xml
+-----------------
+
+<check>19</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444511.xml
+-----------------
+
+<entry>L</entry>
+<skip>Y</skip>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444512.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444513.xml
+-----------------
+
+<entry>SE</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444514.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444515.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444516.xml
+-----------------
+
+<skip>Y</skip>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444517.xml
+-----------------
+
+<skip>Y</skip>
+<check>20</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444518.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444519.xml
+-----------------
+
+<check>21</check>
+<check>22</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444520.xml
+-----------------
+
+<check>23</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444521.xml
+-----------------
+
+<check>24</check>
+<check>25</check>
+<entry>SEñOR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444522.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444523.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444524.xml
+-----------------
+
+<check>26</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444525.xml
+-----------------
+
+<check>27</check>
+<check>28</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444526.xml
+-----------------
+
+<check>29</check>
+<check>30</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444527.xml
+-----------------
+
+<check>31</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444528.xml
+-----------------
+
+<check>32</check>
+<check>33</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444529.xml
+-----------------
+
+<skip>A</skip>
+<check>2</check>
+<check>3</check>
+<check>4</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444530.xml
+-----------------
+
+<check>5</check>
+<check>6</check>
+<check>7</check>
+<check>8</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444531.xml
+-----------------
+
+<check>9</check>
+<check>10</check>
+<check>11 A</check>
+<check>12</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444532.xml
+-----------------
+
+<check>13</check>
+<check>14</check>
+<check>15 A</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444533.xml
+-----------------
+
+<check>16</check>
+<check>17</check>
+<check>18</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444534.xml
+-----------------
+
+<check>19</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444535.xml
+-----------------
+
+<skip>A</skip>
+<check>2</check>
+<check>3</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444536.xml
+-----------------
+
+<check>4</check>
+<check>5 Y</check>
+<check>6</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444537.xml
+-----------------
+
+<check>7</check>
+<check>8</check>
+<check>9</check>
+<check>10</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444538.xml
+-----------------
+
+<check>11</check>
+<check>12</check>
+<check>13</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444539.xml
+-----------------
+
+<check>14</check>
+<check>15</check>
+<check>16 Y</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444540.xml
+-----------------
+
+<check>17</check>
+<check>18 Y</check>
+<check>19</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444541.xml
+-----------------
+
+<check>20</check>
+<check>21</check>
+<check>22</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444542.xml
+-----------------
+
+<check>23</check>
+<check>24</check>
+<check>25</check>
+<check>26</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444543.xml
+-----------------
+
+<check>27</check>
+<check>28</check>
+<check>29</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444544.xml
+-----------------
+
+<check>30</check>
+<check>31</check>
+<check>32</check>
+<check>33</check>
+<check>34</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444545.xml
+-----------------
+
+<check>35</check>
+<check>36</check>
+<check>37</check>
+<check>38</check>
+<check>39</check>
+<check>40</check>
+<check>41</check>
+<check>42</check>
+<check>43</check>
+<check>44 A</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444546.xml
+-----------------
+
+<check>45 C L</check>
+<check>46</check>
+<check>47</check>
+<check>48</check>
+<check>49</check>
+<check>50</check>
+<check>51</check>
+<check>52</check>
+<check>53</check>
+<check>54</check>
+<check>55</check>
+<check>56</check>
+<check>57</check>
+<check>58</check>
+<check>59 Y</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444547.xml
+-----------------
+
+<check>60</check>
+<check>61</check>
+<check>62</check>
+<check>63</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444548.xml
+-----------------
+
+<check>2</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444549.xml
+-----------------
+
+<check>3 N</check>
+<check>4</check>
+<check>5</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444550.xml
+-----------------
+
+<check>6</check>
+<check>7</check>
+<check>8</check>
+<check>9</check>
+<check>10</check>
+<check>11</check>
+<check>12</check>
+<check>13</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444551.xml
+-----------------
+
+<check>14</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444552.xml
+-----------------
+
+<check>15</check>
+<check>16 N</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444553.xml
+-----------------
+
+<check>17</check>
+<check>18</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444554.xml
+-----------------
+
+<check>19</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444555.xml
+-----------------
+
+<check>20</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444556.xml
+-----------------
+
+<check>21</check>
+<check>22</check>
+<check>23</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444557.xml
+-----------------
+
+<check>24</check>
+<check>25</check>
+<check>26</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444558.xml
+-----------------
+
+<check>27</check>
+<check>28</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444559.xml
+-----------------
+
+<check>29</check>
+<check>30</check>
+<check>31</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444560.xml
+-----------------
+
+<check>32</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444561.xml
+-----------------
+
+<check>33</check>
+<check>34</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444562.xml
+-----------------
+
+<check>35</check>
+<check>36 A</check>
+<check>37</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444563.xml
+-----------------
+
+<check>38</check>
+<check>39</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444564.xml
+-----------------
+
+<check>40</check>
+<check>41</check>
+<check>42</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444565.xml
+-----------------
+
+<check>43</check>
+<check>44</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444566.xml
+-----------------
+
+<check>45 A</check>
+<check>46 Y</check>
+<check>47</check>
+<check>48</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444567.xml
+-----------------
+
+<check>49</check>
+<check>50</check>
+<check>51</check>
+<check>52</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444568.xml
+-----------------
+
+<check>53</check>
+<check>54</check>
+<check>55</check>
+<check>56</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444569.xml
+-----------------
+
+<check>57</check>
+<check>58</check>
+<check>59 L</check>
+<check>60</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444570.xml
+-----------------
+
+<check>61</check>
+<check>62</check>
+<check>63</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444571.xml
+-----------------
+
+<check>64</check>
+<check>65</check>
+<check>66</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444572.xml
+-----------------
+
+<check>LIST A DE LOS AUTORES ELEGIDOS POR LA REAL</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444573.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444574.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444575.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444576.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444577.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444578.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444579.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444580.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444581.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444582.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444583.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444584.xml
+-----------------
+
+<entry>PRIMERA</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444585.xml
+-----------------
+
+<skip>Y</skip>
+<check>ABA.</check>
+<entry>ABABOL.</entry>
+<entry>ABACERIA.</entry>
+<entry>ABACERO, RA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444586.xml
+-----------------
+
+<entry>ABACIAL.</entry>
+<entry>ABACO</entry>
+<entry>ABAD.</entry>
+  <subentry>ABAD</subentry>
+  <subentry>ABAD BENDITO.</subentry>
+  <subentry>ABAD MITRADO.</subentry>
+  <subentry>ABAD.</subentry>
+  <subentry>ABAD.</subentry>
+  <subentry>ABAD.</subentry>
+  <subentry>ABAD.</subentry>
+  <subentry>ABAD</subentry>
+  <subentry>ABAD Y BALLESTERO MAL PARA LOS MOROS.</subentry>
+<entry>ABADA.</entry>
+<entry>ABADEJO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444587.xml
+-----------------
+
+  <subentry>ABADEJO.</subentry>
+  <subentry>ABADEJO.</subentry>
+<entry>ABADENGO.</entry>
+  <subentry>ABADENGO, GA.</subentry>
+<entry>ABADES.</entry>
+<entry>ABADESSA.</entry>
+  <subentry>ABADESSA</subentry>
+<entry>ABADIA.</entry>
+  <subentry>ABADIA.</subentry>
+<entry>ABAHAR.</entry>
+<entry>ABALADO, DA.</entry>
+<entry>ABALANZAR.</entry>
+  <subentry>ABALANZAR.</subentry>
+<entry>ABALANZARSE.</entry>
+<PastPart>ABALANZADO, DA.</PastPart>
+<entry>ABALGAR.</entry>
+<entry>ABALLAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444588.xml
+-----------------
+
+  <subentry>ABALLAR.</subentry>
+<PastPart>ABALLADO, DA.</PastPart>
+<check>ABALORIO.</check>
+<entry>ABANDALIZAR.</entry>
+<entry>ABANDERADO.</entry>
+<entry>ABANDERADOS.</entry>
+<entry>ABANDERIZAR.</entry>
+<PastPart>ABANDERIZADO, DA.</PastPart>
+<entry>ABANDONAMIENTO.</entry>
+<entry>ABANDONAR.</entry>
+<entry>ABANDONARSE.</entry>
+<PastPart>ABANDONADO, DA.</PastPart>
+<entry>ABANDONO (</entry>
+<entry>ABANICAR.</entry>
+<PastPart>ABANICADO, DA.</PastPart>
+<entry>ABANICO.</entry>
+  <subentry>ABANICO.</subentry>
+  <subentry>ABANICO</subentry>
+<entry>ABANICOS DE CULPAS.</entry>
+<entry>ABANILLO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444589.xml
+-----------------
+
+  <subentry>ABANILLO.</subentry>
+<entry>ABANINO.</entry>
+<entry>ABANO</entry>
+<entry>ABARATAR.</entry>
+<PastPart>ABARATADO, DA.</PastPart>
+<entry>ABARCA.</entry>
+<entry>ABARCAR.</entry>
+<PastPart>ABARCADO, DA.</PastPart>
+<entry>ABARCON</entry>
+<entry>ABARQUILLAR.</entry>
+<PastPart>ABARQUILLADO, DA.</PastPart>
+<entry>ABARRACARSE.</entry>
+<PastPart>ABARRACADO, DA.</PastPart>
+<entry>ABARRADO, DA.</entry>
+<entry>ABARRAGANAMIENTO.</entry>
+<entry>ABARRAGANARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444590.xml
+-----------------
+
+<PastPart>ABARRAGANADO, DA.</PastPart>
+<entry>ABARRANCADERO</entry>
+  <subentry>ABARRANCADERO.</subentry>
+<entry>ABARRANCAR.</entry>
+<entry>ABARRANCARSE.</entry>
+<PastPart>ABARRANCADO, DA.</PastPart>
+<entry>ABARRISCO.</entry>
+<entry>ABARROTAR.</entry>
+<PastPart>ABARROTADO, DA.</PastPart>
+<entry>ABASTADAMENTE.</entry>
+<entry>ABASTANZA.</entry>
+<check>ABASTAMIENTO.</check>
+<entry>ABASTAR.</entry>
+<skip>Y</skip>
+  <subentry>ABASTAR.</subentry>
+<PastPart>ABASTADO, DA.</PastPart>
+<skip>A</skip>
+<entry>ABASTECEDOR.</entry>
+<entry>ABASTECER.</entry>
+<entry>ABASTECIDO, DA.</entry>
+<entry>ABASTECIMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444591.xml
+-----------------
+
+<entry>ABASTO.</entry>
+<entry>ABATANAR.</entry>
+<PastPart>ABATANADO, DA.</PastPart>
+<entry>ABATE (</entry>
+  <subentry>ABATE (</subentry>
+<entry>ABATEAR.</entry>
+<entry>ABATIDAMENTE.</entry>
+<entry>ABATIDISSIMO, MA.adj.superl.</entry>
+<entry>ABATIMIENTO.</entry>
+  <subentry>ABATIMIENTO.</subentry>
+<entry>ABATIR.</entry>
+  <subentry>ABATIR, Y ABATIRSE.</subentry>
+<entry>ABATIRSE.</entry>
+<PastPart>ABATIDO, DA.</PastPart>
+<PastPart>ABATIDO.</PastPart>
+<entry>ABAXAMIENTO.</entry>
+<entry>ABAXAR. v.n.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444592.xml
+-----------------
+
+  <subentry>ABAXAR.</subentry>
+  <subentry>ABAXAR.</subentry>
+  <subentry>ABAXAR.</subentry>
+<entry>ABAXO.</entry>
+<entry>ABDICACION. s.f.</entry>
+<entry>ABDICAR.</entry>
+<entry>ABDOMEN</entry>
+<entry>ABECE.</entry>
+<entry>ABECEDARIO.</entry>
+<entry>ABEJA.</entry>
+<check>ABEja.</check>
+  <subentry>ABEJA, Y OVEJA, Y PIEDRA QUE TREBEJA.</subentry>
+<entry>ABEJAR</entry>
+<entry>ABEJERA</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444593.xml
+-----------------
+
+<entry>ABEJERO</entry>
+<entry>ABEJERUCO,</entry>
+  <subentry>ABEJERUCO.</subentry>
+<entry>ABEJON.</entry>
+<skip>Y</skip>
+<entry>ABEJORRO,</entry>
+<entry>ABELLA.</entry>
+<entry>ABELLAR.</entry>
+<entry>ABELLERO.</entry>
+<entry>ABEMOLAR.</entry>
+<PastPart>ABEMOLADO.</PastPart>
+<entry>ABENUZ</entry>
+<entry>ABEñULAS. s.f.</entry>
+<entry>ABER.</entry>
+<entry>ABERENGENADO, DA.</entry>
+<entry>ABERNARDARSE.</entry>
+<entry>ABERNUNCIO.</entry>
+<entry>ABERTERO, RA.</entry>
+<entry>ABERTURA. s.f.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444594.xml
+-----------------
+
+  <subentry>ABERTURA.</subentry>
+  <subentry>ABERTURA</subentry>
+  <subentry>ABERTURA DE TESTMANTO.</subentry>
+<entry>ABESANA.</entry>
+<entry>ABETERNO.</entry>
+<entry>ABETO.</entry>
+<entry>ABEYA.</entry>
+<entry>ABEYERA.</entry>
+<entry>ABEZAR.</entry>
+<entry>ABIERTAMENTE.</entry>
+<entry>ABIGARRAR.</entry>
+<PastPart>ABIGARRADO.</PastPart>
+<entry>ABIGEATO.</entry>
+<entry>ABIGEO.</entry>
+<entry>ABIGOTADO.</entry>
+<entry>ABINICIO.</entry>
+<entry>ABINTESTATO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444595.xml
+-----------------
+
+<entry>ABITAQUE</entry>
+<entry>ABITO.</entry>
+<entry>ABIZCOCHADO, DA.</entry>
+<entry>ABJURAR.</entry>
+  <subentry>ABJURAR DE LEVI, U DE VEHEMENTI.</subentry>
+<PastPart>ABJURADO.</PastPart>
+<entry>ABLANDADURA.</entry>
+<entry>ABLANDAR.</entry>
+  <subentry>ABLANDAR.</subentry>
+<check>ABLANCAR.</check>
+<entry>ABLANDAR EL TIEMPO.</entry>
+<check>ABLANDA HIGHOS, O BREVAS.</check>
+<entry>ABLANDAR LAS PIEDRAS.</entry>
+<check>ABLANDANTE.</check>
+<check>ABLANDADO.</check>
+<entry>ABLATIVO.</entry>
+<entry>ABLENTADOR.</entry>
+<entry>ABLENTAR.</entry>
+<PastPart>ABLENTADO, DA.</PastPart>
+<entry>ABNEGACION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444596.xml
+-----------------
+
+<entry>ABOBAMIENTO.</entry>
+<entry>ABOBAR. v.a.</entry>
+<PastPart>ABOBADO, DA. part.pas.</PastPart>
+<entry>ABOBAS.</entry>
+  <subentry>ABOBAS Y A TONTAS ALCANZAR ALGUNA COSA.</subentry>
+<entry>ABOCAMIENTO. s.m.</entry>
+<entry>ABOCAR. v.a.</entry>
+  <subentry>ABOCAR.</subentry>
+  <subentry>ABOCAR LA ARTILLERIA.</subentry>
+<PastPart>ABOCADO, DA.</PastPart>
+<entry>ABOCARDADO, DA.</entry>
+<entry>ABOCHORNAR.</entry>
+  <subentry>ABOCHORNAR.</subentry>
+<PastPart>ABOCHORNADO, DA. part.pas.</PastPart>
+<check>ABOCINADO, DA.</check>
+<entry>ABOFETEAR.</entry>
+<PastPart>ABOFETEADO, DA.</PastPart>
+<entry>ABOGACIA.s.f.</entry>
+<entry>ABOGADO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444597.xml
+-----------------
+
+  <subentry>ABOGADO, DA.</subentry>
+<entry>ABOGADOR, ORA.</entry>
+  <subentry>ABOGADOR.</subentry>
+<entry>ABOGAMIENTO.</entry>
+<entry>ABOGAR.</entry>
+<entry>ABOLENGO.</entry>
+<entry>ABOLO, LA.</entry>
+<entry>ABOLORIO.</entry>
+<check>ABOLICION.</check>
+<entry>ABOLIR.</entry>
+<PastPart>ABOLIDO, DA.</PastPart>
+<entry>ABOLLADURA.</entry>
+<entry>ABOLLAR.</entry>
+  <subentry>ABOLLAR.</subentry>
+  <subentry>ABOLLAR.</subentry>
+  <subentry>ABOLLAR.</subentry>
+<PastPart>ABOLLADO, DA.</PastPart>
+<entry>ABOLLONAR.</entry>
+<PastPart>ABOLLONADO, DA.</PastPart>
+<check>ABOLSADO, DA.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444598.xml
+-----------------
+
+<entry>ABOMINABLE.</entry>
+<entry>ABOMINABLEMENTE.</entry>
+<entry>ABOMINACION.</entry>
+  <subentry>ABOMINACION.</subentry>
+<entry>ABOMINADOR.</entry>
+<entry>ABOMINAR.</entry>
+<PastPart>ABOMINADO, DA.</PastPart>
+<entry>ABONAMIENTO.</entry>
+<entry>ABONANZA.</entry>
+<entry>ABONANZAR.</entry>
+<PastPart>ABONANZADO, DA.</PastPart>
+<entry>ABONAR.</entry>
+<skip>O</skip>
+  <subentry>ABONAR A OTRO.</subentry>
+<PastPart>ABONADO, DA.</PastPart>
+<entry>ABONDAMIENTO.</entry>
+<entry>ABONDAR.</entry>
+<entry>ABONDARSE.</entry>
+<PastPart>ABONDADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444599.xml
+-----------------
+
+<entry>ABONDO.</entry>
+<skip>A</skip>
+  <subentry>ABONDO.</subentry>
+<entry>ABONO.</entry>
+  <subentry>ABONO.</subentry>
+<entry>ABONOS.</entry>
+<entry>ABORDAR.</entry>
+  <subentry>ABORDAR.</subentry>
+<entry>ABORDO.</entry>
+  <subentry>ABORDO.</subentry>
+<entry>ABORDONAR.</entry>
+<entry>ABORRECEDERO, RA.</entry>
+<entry>ABORRECEDOR.</entry>
+<entry>ABORRECER.</entry>
+<check>ABORRCER.</check>
+<entry>ABORRECIDO. DA.</entry>
+<check>ABORRECIBLE.</check>
+<entry>ABORRECIBLEMENTE.</entry>
+<entry>ABORRECIMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444600.xml
+-----------------
+
+<entry>ABORRESCENCIA.</entry>
+<entry>ABORRIDO, DA.</entry>
+<entry>ABORTADURA.</entry>
+<entry>ABORTAR.</entry>
+  <subentry>ABORTAR.</subentry>
+<PastPart>ABORTADO, DA.</PastPart>
+<entry>ABORTIVO, VA.</entry>
+<entry>ABORTO.</entry>
+  <subentry>ABORTO.</subentry>
+<entry>ABORTON.</entry>
+<entry>ABOTAGARSE.</entry>
+<PastPart>ABOTAGADO, DA.</PastPart>
+<entry>ABOTINADO, DA.</entry>
+<entry>ABOTONADOR.</entry>
+<entry>ABOTONADURA.</entry>
+<entry>ABOTONAR.</entry>
+  <subentry>ABOTONAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444601.xml
+-----------------
+
+  <subentry>ABOTONAR EL CABALLO.</subentry>
+<PastPart>ABOTONADO, DA.</PastPart>
+<entry>ABOVEDAR.</entry>
+<PastPart>ABOVEDADO, DA.</PastPart>
+<entry>ABRA.</entry>
+<entry>ABRACIJO.</entry>
+<entry>ABRASADAMENTE.</entry>
+<check>ABRASAD1SSIMO, MA.</check>
+<entry>ABRASADOR, RA.</entry>
+<entry>ABRASAMIENTO.</entry>
+<entry>ABRASAR.</entry>
+  <subentry>ABRASAR.</subentry>
+  <subentry>ABRASAR.</subentry>
+<entry>ABRASARSE.</entry>
+<PastPart>ABRASADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444602.xml
+-----------------
+
+<entry>M. LUISA MAGD.</entry>
+<check>ABRAZADERA.</check>
+<entry>ABRAZADOR(</entry>
+<entry>ABRAZAMIENTO.</entry>
+<entry>ABRAZAR.</entry>
+  <subentry>ABRAZAR.</subentry>
+  <subentry>ABRAZAR.</subentry>
+  <subentry>ABRAZAR.</subentry>
+<entry>ABRAZARSE.</entry>
+<PastPart>ABRAZADO, DA.</PastPart>
+<entry>ABRAZO.</entry>
+<entry>ABREGO.</entry>
+<entry>ABREVADERO.</entry>
+<skip>Y</skip>
+<entry>ABREVADOR(</entry>
+<entry>ABREVAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444603.xml
+-----------------
+
+<PastPart>ABREVADO, DA.</PastPart>
+<PastPart>ABREVADO.</PastPart>
+<entry>ABREVIACION.</entry>
+<entry>ABREVIADOR.</entry>
+  <subentry>ABREVIADOR.</subentry>
+  <subentry>ABREVIADOR.</subentry>
+<entry>ABREVIADURA.</entry>
+<entry>ABREVIAR.</entry>
+  <subentry>ABREVIAR</subentry>
+  <subentry>ABREVIAR.</subentry>
+  <subentry>ABREVIAR.</subentry>
+<entry>ABREVIARSE.</entry>
+<skip>O</skip>
+<PastPart>ABREVIADO, DA.</PastPart>
+<check>ABREVIADOS.</check>
+<entry>ABREVIATURA.</entry>
+  <subentry>ABREVIATURA.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444604.xml
+-----------------
+
+<entry>ABRIBONARSE.</entry>
+<PastPart>ABRIBONADO, DA.</PastPart>
+<entry>ABRIDERO, RA.</entry>
+<entry>ABRIDOR.</entry>
+<skip>Y</skip>
+  <subentry>ABRIDOR.</subentry>
+<entry>ABRIGAñO</entry>
+<entry>ABRIGAR.</entry>
+  <subentry>ABRIGAR.</subentry>
+<PastPart>ABRIGADO, DA.</PastPart>
+<entry>QUEV.</entry>
+<check>ABRIGO.</check>
+<skip>Y</skip>
+  <subentry>ABRIGO.</subentry>
+<entry>ABRIL.</entry>
+  <subentry>ABRIL.</subentry>
+  <subentry>ABRIL AGUAS MIL.</subentry>
+  <subentry>ABRIL Y MAYO LLAVES DE TODO EL AñO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444605.xml
+-----------------
+
+<entry>ABRIR.</entry>
+  <subentry>ABRIR EN COBRE, U OTRO METAL.</subentry>
+<entry>ABRIRSE.</entry>
+<check>ABRIR BRECHA.</check>
+  <subentry>ABRIR CAMINO.</subentry>
+  <subentry>ABRIR CAMINO, O EL PASSO.</subentry>
+  <subentry>ABRIR EL CONCURSO,</subentry>
+  <subentry>ABRIR EL JUICIO.</subentry>
+<check>ABRE EL OJO, QUE ASAN CARNE.</check>
+<entry>ABRIR EL OJO.</entry>
+<skip>O</skip>
+  <subentry>ABRIR LOS OJOS.</subentry>
+  <subentry>ABRIR LOS OJOS A UNO.</subentry>
+  <subentry>ABRIR EL TIEMPO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444606.xml
+-----------------
+
+  <subentry>ABRIR EN CANAL.</subentry>
+  <subentry>ABRIR LA CABEZA A ALGUNO.</subentry>
+<skip>Y</skip>
+  <subentry>ABRIR, O ABRIRSE LAS GANAS DE COMER.</subentry>
+  <subentry>ABRIR LA MANO.</subentry>
+  <subentry>ABRIR LAS MANOS.</subentry>
+  <subentry>ABRIR LAS PIERNAS.</subentry>
+  <subentry>ABRIR LA PUERTA.</subentry>
+<entry>ABRIRSE LAS VELACIONES.</entry>
+<check>ABRIR LOS OIDOS.</check>
+  <subentry>ABRIR SU PECHO A OTRO.</subentry>
+  <subentry>ABRIR TIENDA.</subentry>
+  <subentry>ABRIR TIENDA.</subentry>
+  <subentry>ABRIR TRINCHERA.</subentry>
+<check>ABIERTO, TA.</check>
+  <subentry>ABIERTO, TA.</subentry>
+<skip>Y</skip>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444607.xml
+-----------------
+
+<entry>ABROCHADURA</entry>
+<entry>ABROCHAMIENTO. s.m.</entry>
+<entry>ABROCHAR.</entry>
+<PastPart>ABROCHADO, DA.</PastPart>
+<entry>ABROGACION</entry>
+<entry>ABROGAR, v.a.</entry>
+<PastPart>ABROGADO, DA.</PastPart>
+<entry>ABROJO.</entry>
+<skip>... Y</skip>
+  <subentry>ABROJO.</subentry>
+  <subentry>ABROJO.</subentry>
+  <subentry>ABROJO.</subentry>
+<entry>ABROMARSE. v.r.</entry>
+<PastPart>ABROMADO, DA.</PastPart>
+<entry>ABROQUELARSE. v.r.</entry>
+  <subentry>ABROQUELARSE.</subentry>
+<PastPart>ABROQUELADO, DA.</PastPart>
+<entry>ABROTANO. s.m.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444608.xml
+-----------------
+
+<entry>ABRUMADOR. RA.</entry>
+  <subentry>ABRUMADOR.</subentry>
+<entry>ABRUMAR. v.a.</entry>
+  <subentry>ABRUMAR.</subentry>
+<PastPart>ABRUMADO, DA.</PastPart>
+<entry>ABSCESSO. s.m.</entry>
+<entry>ABSCONDER. v.a.</entry>
+<skip>Y</skip>
+<entry>ABSENCIA.</entry>
+<entry>ABSENTARSE. v.r.</entry>
+<entry>ABSENTE.</entry>
+<entry>ABSOLUCION.</entry>
+  <subentry>ABSOLUCION DE LA INSTANCIA.</subentry>
+  <subentry>ABSOLUCION GENERAL.</subentry>
+  <subentry>ABSOLUCION SACRAMENTAL.</subentry>
+<entry>ABSOLUTAMENTE.</entry>
+  <subentry>ABSOLUTAMENTE.</subentry>
+  <subentry>ABSOLUTAMENTE.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444609.xml
+-----------------
+
+<entry>ABSOLUTO, TA.</entry>
+  <subentry>ABSOLUTO.</subentry>
+<entry>ABSOLVEDERAS.</entry>
+<entry>ABSOLVEDOR.</entry>
+<entry>ABSOLVER. v.a.</entry>
+  <subentry>ABSOLVER.</subentry>
+  <subentry>ABSOLVER DE LA INSTANCIA.</subentry>
+  <subentry>ABSOLVER SACRAMENTALMENTE.</subentry>
+<entry>ABSUELTO, TA.</entry>
+  <subentry>ABSUELTO Y DADO POR LIBRE.</subentry>
+<check>ABSORVER. v.a.</check>
+<check>ABSOREVER.</check>
+<entry>ABSORVENTE.</entry>
+<check>ABSORTAR. v.a.</check>
+<entry>ABSORTO, TA.</entry>
+<entry>ABSTENERSE. v.r.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444610.xml
+-----------------
+
+<check>.............</check>
+<entry>ABSTENIDO, DA.</entry>
+<entry>ABSTERSIVO, VA.</entry>
+<entry>ABSTINENCIA.</entry>
+  <subentry>ABSTINENCIA.</subentry>
+<entry>ABSTINENTE.</entry>
+  <subentry>ABSTINENTE.</subentry>
+<entry>ABSTINENTISSIMAMENTE.</entry>
+<entry>ABSTINENTISSIMO, MA.</entry>
+<entry>ABSTRACCION.</entry>
+<entry>ABSTRACTISSIMO, MA.</entry>
+<entry>ABSTRACTIVAMENTE.</entry>
+<entry>ABSTRACTO, TA.</entry>
+  <subentry>ABSTRACTO.</subentry>
+<entry>ABSTRAHER.</entry>
+  <subentry>ABSTRAHER.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444611.xml
+-----------------
+
+<entry>ABSTRAHERSE.</entry>
+<entry>ABSTRAHIDO, DA.</entry>
+<entry>ABSURDIDAD.</entry>
+<entry>ABSURDO.</entry>
+  <subentry>ABSURDO, DA.</subentry>
+<entry>ABSYNTHIO.</entry>
+<entry>ABUBILLA.</entry>
+<entry>ABUCASTA.</entry>
+<entry>ABUHAMIENTO.</entry>
+<entry>ABUHARSE.</entry>
+<PastPart>ABUHADO, DA.</PastPart>
+<PastPart>ABUHADO.</PastPart>
+<entry>ABULTAR.</entry>
+<PastPart>ABULTADO, DA.</PastPart>
+<PastPart>ABULTADO.</PastPart>
+<entry>ABUNDADO, DA.</entry>
+<entry>ABUNDAMIENTO.</entry>
+<entry>ABUNDANCIA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444612.xml
+-----------------
+
+<entry>ABUNDANTEMENTE.</entry>
+<entry>ABUNDANTISSIMAMENTE.</entry>
+<entry>ABUNDANTISSIMO, MA.</entry>
+<entry>ABUNDAR.</entry>
+<check>......</check>
+<check>ABUNDANTE.</check>
+  <subentry>ABUNDANTE.</subentry>
+<entry>ABUNDOSAMENTE.</entry>
+<entry>ABUNDOSO, SA.</entry>
+<entry>ABUñUELAR.</entry>
+<PastPart>ABUñUELADO.</PastPart>
+<entry>ABURAR.</entry>
+<PastPart>ABURADO.</PastPart>
+<entry>ABURELADO, DA.</entry>
+<entry>ABURRIR.</entry>
+<PastPart>ABURRIDO, DA.</PastPart>
+<entry>ABUSAR.</entry>
+<entry>ABUSION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444613.xml
+-----------------
+
+  <subentry>ABUSION.</subentry>
+<entry>ABUSO.</entry>
+<entry>ABUTARDA.</entry>
+<entry>ABYSMALES.</entry>
+<entry>ABYSMAR.</entry>
+<entry>ABYSMO.</entry>
+  <subentry>ABYSMO.</subentry>
+  <subentry>ABYSMO.</subentry>
+<check>ABYECCION.</check>
+<entry>ACA.</entry>
+  <subentry>ACA.</subentry>
+  <subentry>ACA.</subentry>
+  <subentry>ACA COMO ALLA.</subentry>
+  <subentry>ACA QUE HAI OLLA.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444614.xml
+-----------------
+
+  <subentry>ACA Y ALLA.</subentry>
+<entry>ACABABLE.</entry>
+<entry>ACABALAR.</entry>
+<PastPart>ACABALADO, DA.</PastPart>
+<entry>ACABALLADERO</entry>
+<entry>ACABALLADO, DA.</entry>
+  <subentry>ACABALLADO.</subentry>
+<entry>ACABALLAR. v.a.</entry>
+<check>ACABALLADA.</check>
+<entry>ACABALLERAR.</entry>
+<PastPart>ACABALLERADO.</PastPart>
+<PastPart>ACABALLERADO.</PastPart>
+<entry>ACABAMIENTO.</entry>
+  <subentry>ACABAMIENTO.</subentry>
+<entry>ACABAR.</entry>
+  <subentry>ACABAR.</subentry>
+  <subentry>ACABAR.</subentry>
+  <subentry>ACABAR.</subentry>
+  <subentry>ACABAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444615.xml
+-----------------
+
+  <subentry>ACABAR.</subentry>
+  <subentry>ACABAR.</subentry>
+  <subentry>ACABAR CON ALGUNA COSA.</subentry>
+  <subentry>ACABAR CON ALGUNO.</subentry>
+<check>ACABAME ESTO LA VIDA, EL ENTENDIMIENTO, LA PACIENCIA,</check>
+<entry>ACABARSE LA CANDELA O CANDELILLA.</entry>
+  <subentry>ACABARSE LA CANDELA O CANDELILLA.</subentry>
+<check>ACABA YA.</check>
+<entry>ACABADOS SON CUENTOS.</entry>
+<check>ACABADO, DA.</check>
+<skip>Y</skip>
+  <subentry>ACABADO.</subentry>
+  <subentry>ACABADO.</subentry>
+  <subentry>ACABADO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444616.xml
+-----------------
+
+<entry>ACABDILLADAMENTE.</entry>
+<entry>ACABDILLADOR (</entry>
+<entry>ACABDILLAMIENTO. s.m.</entry>
+<entry>ACABDILLAR.</entry>
+<PastPart>ACABDILLADO, DA.</PastPart>
+<entry>ACABELLADO, DA.</entry>
+<entry>ACABO.</entry>
+<entry>ACABRONADO, DA.</entry>
+<entry>ACACHARSE.</entry>
+<PastPart>ACACHADO, DA.</PastPart>
+<check>ACACIA.</check>
+  <subentry>ACACIA.</subentry>
+<entry>ACADEMIA.</entry>
+  <subentry>ACADEMIA.</subentry>
+  <subentry>ACADEMIA.</subentry>
+<entry>ACADEMIAS.</entry>
+<entry>PANT.</entry>
+<skip>Y</skip>
+<check>ACADEMIAS DE PINTURA, ESCULTURA, DE MUSICA; Y DE OTRAS ARTES LIBERALES.</check>
+<entry>ACADEMICO.</entry>
+  <subentry>ACADEMICO, CA.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444617.xml
+-----------------
+
+<entry>ACAECER.</entry>
+<entry>ACAECERSE.</entry>
+<entry>ACAECIDO, DA.</entry>
+<entry>ACAECIMIENTO.</entry>
+<entry>ACAESCER.</entry>
+<entry>ACAIRELAR.</entry>
+<PastPart>ACAIRELADO, DA.</PastPart>
+<entry>ACALLAR.</entry>
+  <subentry>ACALLAR.</subentry>
+<skip>A</skip>
+<PastPart>ACALLADO, DA.</PastPart>
+<check>ACALOñAR, O ACALUñAR.</check>
+<entry>ACALORAR.</entry>
+  <subentry>ACALORAR.</subentry>
+<entry>ACALORARSE.</entry>
+  <subentry>ACALORARSE.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444618.xml
+-----------------
+
+<PastPart>ACALORADO, DA.</PastPart>
+<entry>ACAMPAMENTO.</entry>
+<entry>ACAMPAR, O ACAMPARSE.</entry>
+<PastPart>ACAMPADO, DA.</PastPart>
+<entry>ACAMUZADO, DA.</entry>
+<entry>ACANALAR. v.a.</entry>
+<PastPart>ACANALADO, DA.</PastPart>
+<PastPart>ACANALADO.</PastPart>
+<check>ACANALADOS.</check>
+<entry>ACANDILAR.</entry>
+<PastPart>ACANDILADO, DA.</PastPart>
+<entry>ACANELAR.</entry>
+<PastPart>ACANELADO, DA.</PastPart>
+<PastPart>ACANELADO, DA.</PastPart>
+<entry>ACANILLADO, DA.</entry>
+<entry>ACAñAVEREAR.</entry>
+<PastPart>ACAñAVEREADO, DA.</PastPart>
+<entry>ACAñONEAR.</entry>
+<PastPart>ACAñONEADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444619.xml
+-----------------
+
+<check>ACANTALEAR.</check>
+<entry>ACANTARADO.</entry>
+<entry>ACANTHIO.</entry>
+<entry>ACANTHO.</entry>
+<check>........................</check>
+  <subentry>ACANTHO SALVAGE.</subentry>
+<entry>ACANTHOBOLA.</entry>
+<Itypo>ACANTHYLIDlS.</Itypo>
+<entry>ACANTONAR.</entry>
+<PastPart>ACANTONADO, DA.</PastPart>
+<entry>ACAPARROSADO, DA.</entry>
+<entry>ACAPIZARSE.</entry>
+<entry>ACAPONADO, DA.</entry>
+<entry>ACAPTAR.</entry>
+<entry>ACARAR.</entry>
+<entry>ACARDENALAR.</entry>
+<entry>ACARDENALARSE.</entry>
+<PastPart>ACARDENALADO, DA.</PastPart>
+<entry>ACAREAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444620.xml
+-----------------
+
+<entry>ACARICIADOR.</entry>
+<entry>ACARICIAR.</entry>
+<PastPart>ACARICIADO, DA.</PastPart>
+<entry>ACARRAZAR.</entry>
+<entry>ACARREADIZO, ZA.</entry>
+<entry>ACARREADOR.</entry>
+<entry>ACARREADURA.</entry>
+<entry>ACARREAMIENTO.</entry>
+<entry>ACARREAR.</entry>
+  <subentry>ACARREAR.</subentry>
+<PastPart>ACARREADO, DA.</PastPart>
+<entry>ACARREO.</entry>
+<entry>ACARRETO.</entry>
+<entry>ACASO.</entry>
+  <subentry>ACASO.</subentry>
+  <subentry>ACASO?</subentry>
+<entry>ACATADAMENTE.</entry>
+<entry>ACATADURA.</entry>
+<skip>Y</skip>
+<entry>ACATAMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444621.xml
+-----------------
+
+  <subentry>ACATAMIENTO.</subentry>
+  <subentry>ACATAMIENTO.</subentry>
+<entry>ACATAR.</entry>
+<skip>A</skip>
+  <subentry>ACATAR.</subentry>
+<PastPart>ACATADO, DA.</PastPart>
+<entry>ACATARRARSE.</entry>
+<PastPart>ACATARRADO, DA.</PastPart>
+<entry>ACAUDALAR.</entry>
+  <subentry>ACAUDALAR.</subentry>
+<PastPart>ACAUDALADO, DA.</PastPart>
+<PastPart>ACAUDALADO.</PastPart>
+<entry>ACAUDELLAR.</entry>
+<entry>ACAUDILLADOR.</entry>
+<entry>ACAUDILLAMIENTO.</entry>
+<entry>ACAUDILLAR.</entry>
+<PastPart>ACAUDILLADO, DA.</PastPart>
+<entry>ACAUTELARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444622.xml
+-----------------
+
+<entry>V.</entry>
+<check>ACCELERACION.</check>
+<entry>ACCELERADAMENTE.</entry>
+<Itypo>ACCELERAMlENTO.</Itypo>
+<entry>ACCELERAR. v.a.</entry>
+<PastPart>ACCELERADO, DA.</PastPart>
+<skip>A</skip>
+<entry>ACCENDER.</entry>
+<entry>ACCENDIDO, DA.</entry>
+<entry>ACCENSO, SA.</entry>
+<entry>ACCENTO.</entry>
+<entry>BURGUILU.</entry>
+<check>ACCENTO MUSICO.</check>
+<entry>BURG.</entry>
+<check>ACCENTO.</check>
+<entry>ACCENTUAR. v.a.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444623.xml
+-----------------
+
+  <subentry>ACCENTUAR.</subentry>
+  <subentry>ACCENTUAR.</subentry>
+<PastPart>ACCENTUADO, DA.</PastPart>
+<entry>ACCESSIBLE DISTANCIA O LINEA.</entry>
+<entry>ACCESSION.</entry>
+  <subentry>ACCESSION.</subentry>
+<entry>ACCESSO.</entry>
+  <subentry>ACCESSO.</subentry>
+<entry>ACCESSORIAMENTE.</entry>
+<entry>ACCESSORIO, RIA.</entry>
+<check>ACCESSORIA.</check>
+<entry>ACCIDENTADO, DA.</entry>
+<entry>ACCIDENTAL.</entry>
+  <subentry>ACCIDENTAL.</subentry>
+<entry>ACCIDENTALMENTE.</entry>
+<entry>ACCIDENTARIAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444624.xml
+-----------------
+
+<entry>ACCIDENTE.</entry>
+  <subentry>ACCIDENTE.</subentry>
+  <subentry>ACCIDENTE.</subentry>
+<skip>A</skip>
+<entry>ACCION.</entry>
+  <subentry>ACCION.</subentry>
+  <subentry>ACCION.</subentry>
+  <subentry>ACCION.</subentry>
+  <subentry>ACCION DE GRACIAS.</subentry>
+<entry>ACCIONES.</entry>
+<check>ACCIONAR, v.n.</check>
+<PastPart>ACCIONADO, DA.</PastPart>
+<entry>ACEBADAMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444625.xml
+-----------------
+
+<entry>ACEBADAR. v.a.</entry>
+<PastPart>ACEBADADO, DA. part.pas.</PastPart>
+<entry>ACEBO.</entry>
+<entry>ACEBUCHE.</entry>
+<entry>ACECHADOR, RA. s.m.</entry>
+<entry>ACECHANZA.</entry>
+<entry>ACECHAR. v.a.</entry>
+<entry>ACECHO.</entry>
+<entry>ACECHON, NA. s.m.</entry>
+<check>ACECINAR. v.a.</check>
+<entry>ACECINARSE. v.r.</entry>
+<PastPart>ACECINADO, DA.</PastPart>
+<entry>ACEDAR. v.a.</entry>
+  <subentry>ACEDAR.</subentry>
+<PastPart>ACEDADO, DA.</PastPart>
+<entry>ACEDERA.</entry>
+  <subentry>ACEDERA DE LAS INDIAS.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444626.xml
+-----------------
+
+<entry>ACEDIA.</entry>
+  <subentry>ACEDIA.</subentry>
+  <subentry>ACEDIA.</subentry>
+  <subentry>ACEDIA QUE PAREZCA LENGUADO, Y LENGUADO QUE PAREZCA ACEDIA.</subentry>
+<entry>ACEDO, DA.</entry>
+  <subentry>ACEDO.</subentry>
+<entry>ACEDURA</entry>
+<entry>ACEITE.</entry>
+<entry>ACEITERA.</entry>
+<entry>ACEITUNA.</entry>
+<entry>ACELGA.</entry>
+<entry>ACEMILA.</entry>
+<entry>ACEMITE.</entry>
+<entry>ACENDRAR. v.a.</entry>
+<PastPart>ACENDRADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444627.xml
+-----------------
+
+<PastPart>ACENDRADO.</PastPart>
+<entry>ACENSAR Y ACENSUAR. v.a.</entry>
+<PastPart>ACENSADO, Y ACENSUADO, DA.</PastPart>
+<entry>ACEñA.</entry>
+<entry>ACEPCION.</entry>
+  <subentry>ACEPCION DE PERSONAS.</subentry>
+<entry>ACEPHALO, LA.</entry>
+<entry>ACEPILLADURA.</entry>
+<entry>ACEPILLAR. v.a.</entry>
+  <subentry>ACEPILLAR.</subentry>
+  <subentry>ACEPILLAR.</subentry>
+<PastPart>ACEPILLADO, DA.</PastPart>
+<entry>ACEPTABLE.</entry>
+<entry>ACEPTACION.</entry>
+  <subentry>ACEPTACION.</subentry>
+  <subentry>ACEPTACION DE HERENCIA.</subentry>
+  <subentry>ACEPTACION DE PERSONAS.</subentry>
+<entry>ACEPTADOR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444628.xml
+-----------------
+
+<entry>ACEPTAR. v.a.</entry>
+  <subentry>ACEPTAR UNA LETRA.</subentry>
+<check>ACEPTANTE.</check>
+<check>ACEPTADO, DA.</check>
+<entry>ACEPTISSIMO, MA.</entry>
+<entry>ACEPTO, TA.</entry>
+<entry>ACER.</entry>
+<entry>ACERA.</entry>
+<skip>A,</skip>
+<skip>Y</skip>
+<entry>ACERAR. v.a.</entry>
+  <subentry>ACERAR.</subentry>
+<PastPart>ACERADO, DA.</PastPart>
+<entry>ACERBAMENTE.</entry>
+<entry>ACERBIDAD.</entry>
+<entry>ACERBISSIMO, MA.</entry>
+<entry>ACERBO, BA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444629.xml
+-----------------
+
+<entry>OV.</entry>
+<check>ACERBO.</check>
+<entry>ACERCA.</entry>
+  <subentry>ACERCA.</subentry>
+<entry>ACERCAMIENTO.</entry>
+<entry>ACERCAR. v.a.</entry>
+<entry>ACERCARSE. v.r.</entry>
+<skip>Y</skip>
+<PastPart>ACERCADO, DA.</PastPart>
+<entry>ACERCEN.</entry>
+<entry>ACERICO.</entry>
+  <subentry>ACERICO.</subentry>
+<entry>ACERO.</entry>
+  <subentry>ACERO.</subentry>
+  <subentry>ACERO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444630.xml
+-----------------
+
+<entry>ACEROSO, SA.</entry>
+<entry>ACERRIMAMENTE.</entry>
+<entry>ACERRIMO, MA.</entry>
+<entry>ACERTADAMENTE.</entry>
+<entry>ACERTADISSIMO, MA.</entry>
+<entry>ACERTADOR</entry>
+<entry>ACERTAJO.</entry>
+<entry>ACERTAJON</entry>
+<entry>ACERTAMIENTO.</entry>
+<entry>ACERTAR.</entry>
+  <subentry>ACERTAR.</subentry>
+  <subentry>ACERTAR.</subentry>
+  <subentry>ACERTAR.</subentry>
+  <subentry>ACERTAR ERRANDO.</subentry>
+  <subentry>ACERTAR SIN QUERER.</subentry>
+<entry>ACERTARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444631.xml
+-----------------
+
+<PastPart>ACERTADO, DA.</PastPart>
+<PastPart>ACERTADO.</PastPart>
+<entry>ACERTIJO.</entry>
+<entry>ACERTOTILIS.</entry>
+<entry>ACERUELO</entry>
+<entry>ACERVO.</entry>
+<entry>ACETABULO.</entry>
+<entry>ACETAR.</entry>
+<skip>Y</skip>
+<entry>ACETO, TA.</entry>
+<entry>ACETRE.</entry>
+  <subentry>ACETRE.</subentry>
+  <subentry>ACETRE.</subentry>
+  <subentry>ACETRE.</subentry>
+<entry>ACETRERIA O ACETRIA.</entry>
+<entry>ACETRERO.</entry>
+<entry>ACEZAR.</entry>
+<entry>ACEZO</entry>
+<entry>ACEZOSO, SA.</entry>
+<entry>ACHACADIZO, ZA.</entry>
+<entry>ACHACAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444632.xml
+-----------------
+
+<entry>ACHACARSE.</entry>
+<PastPart>ACHACADO, DA.</PastPart>
+<skip>A</skip>
+<entry>ACHACOSAMENTE.</entry>
+<entry>ACHACOSISSIMO, MA.</entry>
+<entry>ACHACOSO, SA.</entry>
+<entry>ACHAPARRADO, DA.</entry>
+  <subentry>ACHAPARRADO.</subentry>
+<entry>ACHAPARRARSE.</entry>
+<entry>ACHAQUE.</entry>
+  <subentry>ACHAQUE.</subentry>
+  <subentry>ACHAQUE.</subentry>
+  <subentry>ACHAQUE.</subentry>
+<entry>ACHAQUES AL ODRE QUE SABE A LA PEZ.</entry>
+  <subentry>ACHAQUES AL VIERNES PARA NO AYUNARLE.</subentry>
+<entry>ACHAQUIAR.</entry>
+<entry>ACHAQUIENTO, TA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444633.xml
+-----------------
+
+<entry>ACHAQUITO.</entry>
+<entry>ACHICADURA</entry>
+<entry>ACHICAR.</entry>
+  <subentry>ACHICAR EL AGUA AL NAVIO.</subentry>
+<check>ACHICA COMPADRE, Y LLEVAREIS LA GALGA.</check>
+<entry>ACHICADO, DA.</entry>
+<entry>ACHICHARRAR.</entry>
+<entry>ACHICHARRARSE.</entry>
+<PastPart>ACHICHARRADO, DA.</PastPart>
+<check>ACHICORIA.</check>
+<entry>ACHINELADO.</entry>
+<entry>ACHINESIA.</entry>
+<entry>ACHIOTE.</entry>
+<entry>PANT.</entry>
+<check>ACHOCAR.</check>
+  <subentry>ACHOCAR.</subentry>
+  <subentry>ACHOCAR.</subentry>
+<PastPart>ACHOCADO, DA.</PastPart>
+<entry>ACHUCHAR.</entry>
+  <subentry>ACHUCHAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444634.xml
+-----------------
+
+<entry>ACHUCHURRAR.</entry>
+<check>ACIA.</check>
+<entry>ACIAGO.</entry>
+<entry>ACIAL.</entry>
+<entry>ACIBAR.</entry>
+  <subentry>ACIBAR.</subentry>
+  <subentry>ACIBAR.</subentry>
+<entry>ACIBARAR.</entry>
+  <subentry>ACIBARAR.</subentry>
+<PastPart>ACIBARADO, DA.</PastPart>
+<entry>ACIBARRAR.</entry>
+<PastPart>ACIBARRADO, DA.</PastPart>
+<entry>ACICALADOR</entry>
+  <subentry>ACICALADOR.</subentry>
+<entry>ACICALADURA</entry>
+<entry>ACICALAMIENTO.</entry>
+<entry>ACICALAR.</entry>
+  <subentry>ACICALAR.</subentry>
+<PastPart>ACICALADO, DA.</PastPart>
+<entry>ACICATE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444635.xml
+-----------------
+
+<entry>ACICHE.</entry>
+<entry>ACIDATES.</entry>
+<entry>ACIDIA.</entry>
+<entry>ACIDO.</entry>
+  <subentry>ACIDO, DA.</subentry>
+<entry>ACIENZO.</entry>
+<entry>ACIERTO.</entry>
+  <subentry>ACIERTO.</subentry>
+<entry>ACIES.</entry>
+<entry>ACIGUATADO, DA.</entry>
+<entry>ACIMBOGA.</entry>
+<entry>ACIMENTARSE.</entry>
+<entry>ACIMIENTO DE GRACIAS.</entry>
+<entry>ACINA.</entry>
+<entry>ACINAR.</entry>
+<entry>ACINO.</entry>
+<entry>ACION.</entry>
+<entry>ACIPENSER.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444636.xml
+-----------------
+
+<entry>ACIPRES.</entry>
+<entry>ACIPRESTE.</entry>
+<entry>ACIRATES.</entry>
+<entry>ACITARA.</entry>
+<entry>ACITRON.</entry>
+<entry>ACIVILAR.</entry>
+<PastPart>ACIVILADO, DA.</PastPart>
+<entry>ACLAMACION.</entry>
+  <subentry>ACLAMACION.</subentry>
+<entry>ACLAMADOR.</entry>
+<entry>ACLAMAR. V.</entry>
+<PastPart>ACLAMADO, DA.</PastPart>
+<entry>ACLARAR.</entry>
+  <subentry>ACLARAR.</subentry>
+  <subentry>ACLARAR.</subentry>
+  <subentry>ACLARAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444637.xml
+-----------------
+
+  <subentry>ACLARAR.</subentry>
+  <subentry>ACLARAR LA ROPA.</subentry>
+  <subentry>ACLARAR LA VOZ.</subentry>
+<check>ACLARADSELO VOS COMPADRE, QUE TENEIS LA BOCA A MANO.</check>
+<check>ACLARADO, DA.</check>
+<entry>ACLARECER.</entry>
+<entry>ACLARECIDO, DA.</entry>
+<entry>ACLOCARSE.</entry>
+  <subentry>ACLOCARSE.</subentry>
+<entry>ACOBARDAR.</entry>
+<entry>ACOBARDARSE.</entry>
+<PastPart>ACOBARDADO, DA.</PastPart>
+<entry>ACOCEADOR, RA.</entry>
+<entry>ACOCEAMIENTO.</entry>
+<entry>ACOCEAR.</entry>
+  <subentry>ACOCEAR.</subentry>
+  <subentry>ACOCEAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444638.xml
+-----------------
+
+<PastPart>ACOCEADO, DA.</PastPart>
+<entry>ACOCHINAR.</entry>
+<PastPart>ACOCHINADO, DA.</PastPart>
+<check>ACOCOTAR.</check>
+<entry>ACODADURA</entry>
+  <subentry>ACODADURA.</subentry>
+<entry>ACODAR.</entry>
+  <subentry>ACODAR.</subentry>
+  <subentry>ACODAR.</subentry>
+<PastPart>ACODADO, DA.</PastPart>
+<entry>ACODIR.</entry>
+<entry>ACODO.</entry>
+<entry>ACOGER.</entry>
+  <subentry>ACOGER.</subentry>
+  <subentry>ACOGER EL GANADO.</subentry>
+<entry>ACOGERSE.</entry>
+<skip>A</skip>
+  <subentry>ACOGERSE.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444639.xml
+-----------------
+
+  <subentry>ACOGERSE.</subentry>
+  <subentry>ACOGERSE A LA IGLESIA.</subentry>
+<entry>ACOGI AL RATON EN MI AGUGERO, Y VOLVIOSEME HEREDERO.</entry>
+<entry>ACOGIDO, DA.</entry>
+<entry>ACOGIDOS.</entry>
+<check>ACOGETA.</check>
+<entry>ACOGIDA.</entry>
+  <subentry>ACOGIDA.</subentry>
+<entry>ACOGIMIENTO.</entry>
+<entry>ACOGOTAR.</entry>
+<PastPart>ACOGOTADO, DA.</PastPart>
+<PastPart>ACOGOTADO.</PastPart>
+<entry>ACOITA.</entry>
+<entry>ACOITARSE.</entry>
+<entry>ACOLCHAR.</entry>
+<entry>ACOLYTO.</entry>
+  <subentry>ACOLYTO.</subentry>
+  <subentry>ACOLYTO.</subentry>
+<entry>ACOLLADOR</entry>
+<entry>ACOLLARAR.</entry>
+<PastPart>ACOLLARADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444640.xml
+-----------------
+
+<entry>ACOMANDAR.</entry>
+<PastPart>ACOMANDADO, DA.</PastPart>
+<entry>ACOMBAR.</entry>
+<entry>ACOMENDADOR.</entry>
+<entry>ACOMETEDOR.</entry>
+<entry>ACOMETER.</entry>
+  <subentry>ACOMETER.</subentry>
+  <subentry>ACOMETER.</subentry>
+  <subentry>ACOMETER.</subentry>
+  <subentry>ACOMETER</subentry>
+<check>ACOMETA QUIEN QUIERA, EL FUERTE ESPERA.</check>
+<entry>ACOMETIDO, DA.</entry>
+<check>ACOMETIDA.</check>
+<entry>ACOMETIMIENTO.</entry>
+  <subentry>ACOMETIMIENTO.</subentry>
+  <subentry>ACOMETIMIENTO.</subentry>
+  <subentry>ACOMETIMIENTO</subentry>
+<entry>ACOMODABLE.</entry>
+<entry>ACOMODACION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444641.xml
+-----------------
+
+<entry>ACOMODADAMENTE.</entry>
+  <subentry>ACOMODADAMENTE.</subentry>
+<entry>ACOMODADISSIMAMENTE.</entry>
+<entry>ACOMODADISSIMO, MA.</entry>
+  <subentry>ACOMODADISSIMO.</subentry>
+<entry>ACOMODADOR.</entry>
+  <subentry>ACOMODADOR.</subentry>
+<entry>ACOMODADORA.</entry>
+<entry>ACOMODAMIENTO.</entry>
+<entry>ACOMODAR.</entry>
+  <subentry>ACOMODAR.</subentry>
+  <subentry>ACOMODAR.</subentry>
+  <subentry>ACOMODAR.</subentry>
+  <subentry>ACOMODAR.</subentry>
+<entry>ACOMODARSE.</entry>
+  <subentry>ACOMODARSE AL TIEMPO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444642.xml
+-----------------
+
+<PastPart>ACOMODADO, DA.</PastPart>
+<PastPart>ACOMODADO.</PastPart>
+<PastPart>ACOMODADO.</PastPart>
+<PastPart>ACOMODADO.</PastPart>
+<PastPart>ACOMODADO.</PastPart>
+<PastPart>ACOMODADO DE ROPA LIMPIA.</PastPart>
+<entry>ACOMODO.</entry>
+<entry>ACOMPAñADOR.</entry>
+<entry>ACOMPAñAMIENTO.</entry>
+  <subentry>ACOMPAñAMIENTO.</subentry>
+<entry>ACOMPAñAR.</entry>
+<skip>O</skip>
+  <subentry>ACOMPAñAR.</subentry>
+  <subentry>ACOMPAñAR.</subentry>
+  <subentry>ACOMPAñAR.</subentry>
+  <subentry>ACOMPAñAR.</subentry>
+<skip>Y</skip>
+  <subentry>ACOMPAñAR DE REPENTE.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444643.xml
+-----------------
+
+<skip>A</skip>
+<check>ACOMPAñANTE.</check>
+  <subentry>ACOMPAñANTE.</subentry>
+<check>ACOMPAñADO, DA.</check>
+  <subentry>ACOMPAñADO.</subentry>
+<entry>ACOMPLEXIONADO, DA.</entry>
+<entry>ACOMULAR.</entry>
+<PastPart>ACOMULADO.</PastPart>
+<entry>ACONCHADILLO.</entry>
+<entry>ACONCHAR.</entry>
+<PastPart>ACONCHADO, DA.</PastPart>
+<entry>ACONDICIONADO, DA.</entry>
+<entry>ACONGOJAR.</entry>
+<PastPart>ACONGOJADO, DA.</PastPart>
+<entry>ACONHORTADO, DA.</entry>
+<entry>ACONITO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444644.xml
+-----------------
+
+<entry>ACONSEGUESCER.</entry>
+<entry>ACONSEGUIR.</entry>
+<entry>ACONSEJADOR.</entry>
+<entry>ACONSEJAR.</entry>
+<PastPart>ACONSEJADO, DA.</PastPart>
+<entry>ACONSOLAR.</entry>
+<entry>ACONTAGIAR.</entry>
+<PastPart>ACONTAGIADO, DA.</PastPart>
+<entry>ACONTAR.</entry>
+  <subentry>ACONTAR.</subentry>
+<PastPart>ACONTADO, DA.</PastPart>
+<entry>ACONTECER.</entry>
+  <subentry>ACONTECER.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444645.xml
+-----------------
+
+<entry>ACONTECIDO, DA.</entry>
+<entry>ACONTECIMIENTO.</entry>
+<entry>ACONTENTARSE.</entry>
+<entry>ACONTRASTAR.</entry>
+<entry>ACOPADO, DA.</entry>
+<skip>A</skip>
+<entry>ACOPETADO, DA.</entry>
+<entry>ACOPIAMIENTO.</entry>
+<entry>ACOPIAMIENTOS.</entry>
+<entry>ACOPIAR.</entry>
+  <subentry>ACOPIAR.</subentry>
+<PastPart>ACOPIADO, DA.</PastPart>
+<entry>ACOPIO</entry>
+<entry>ACOPLAR.</entry>
+<entry>ACOPLARSE.</entry>
+<PastPart>ACOPLADO, DA.</PastPart>
+<entry>ACOQUINAR.</entry>
+<PastPart>ACOQUINADO, DA.</PastPart>
+<entry>ACORAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444646.xml
+-----------------
+
+<entry>ACORCAAR.</entry>
+<entry>ACORDADAMENTE.</entry>
+<entry>ACORDADISSIMAMENTE.</entry>
+<entry>ACORDADISSIMO, MA.</entry>
+<entry>ACORDAMIENTO.</entry>
+<entry>ACORDANZA.</entry>
+<entry>ACORDAR.</entry>
+  <subentry>ACORDAR.</subentry>
+  <subentry>ACORDAR.</subentry>
+  <subentry>ACORDAR.</subentry>
+  <subentry>ACORDAR.</subentry>
+  <subentry>ACORDAR.</subentry>
+  <subentry>ACORDAR LOS INSTRUMENTOS MUSICOS, O LAS VOCES.</subentry>
+<PastPart>ACORDADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444647.xml
+-----------------
+
+<entry>ACORDE.</entry>
+<skip>A</skip>
+  <subentry>ACORDE.</subentry>
+<entry>ACORNEAR.</entry>
+  <subentry>ACORNEAR.</subentry>
+<entry>ACORO.</entry>
+<entry>ACORRALAR.</entry>
+  <subentry>ACORRALAR.</subentry>
+<entry>ACORRALARSE.</entry>
+<PastPart>ACORRALADO, DA.</PastPart>
+<entry>ACORRER.</entry>
+<entry>ACORRIDO, DA.</entry>
+<entry>ACORRO.</entry>
+<entry>ACORRUCARSE.</entry>
+<entry>ACORTADIZO.</entry>
+<entry>ACORTAMIENTO.</entry>
+<entry>ACORTAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444648.xml
+-----------------
+
+  <subentry>ACORTAR.</subentry>
+<entry>ACORTARSE.</entry>
+<PastPart>ACORTADO, DA.</PastPart>
+<entry>ACORVAR.</entry>
+<PastPart>ACORVADO, DA.</PastPart>
+<entry>ACORZAR.</entry>
+  <subentry>ACORZAR.</subentry>
+<entry>ACOSADOR.</entry>
+<entry>ACOSAR.</entry>
+  <subentry>ACOSAR.</subentry>
+<skip>Y</skip>
+<PastPart>ACOSADO, DA.</PastPart>
+<skip>Y</skip>
+<entry>ACOSTAMIENTO.</entry>
+<entry>ACOSTAR.</entry>
+  <subentry>ACOSTAR.</subentry>
+  <subentry>ACOSTAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444649.xml
+-----------------
+
+  <subentry>ACOSTAR.</subentry>
+<entry>ACOSTARSE.</entry>
+  <subentry>ACOSTARSE.</subentry>
+  <subentry>ACOSTARSE EL PESO.</subentry>
+<PastPart>ACOSTADO, DA.</PastPart>
+<entry>ACOSTUMBRAR.</entry>
+  <subentry>ACOSTUMBRAR.</subentry>
+<entry>ACOSTUMBRARSE.</entry>
+<PastPart>ACOSTUMBRADO, DA.</PastPart>
+<entry>ACOTACION.</entry>
+  <subentry>ACOTACION.</subentry>
+<entry>ACOTAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444650.xml
+-----------------
+
+  <subentry>ACOTAR.</subentry>
+  <subentry>ACOTAR.</subentry>
+  <subentry>ACOTAR.</subentry>
+<entry>ACOTARSE.</entry>
+<PastPart>ACOTADO, DA.</PastPart>
+<entry>ACOTOLAR.</entry>
+<PastPart>ACOTOLADO, DA.</PastPart>
+<entry>ACOYUNDAR.</entry>
+<PastPart>ACOYUNDADO, DA.</PastPart>
+<entry>ACRE.</entry>
+  <subentry>ACRE.</subentry>
+  <subentry>ACRE.</subentry>
+<entry>ACRECENTADOR.</entry>
+<entry>ACRECENTAMIENTO.</entry>
+<entry>ACRECENTAR.</entry>
+<PastPart>ACRECENTADO, DA.</PastPart>
+<entry>ACRECER.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444651.xml
+-----------------
+
+<entry>ACRECIDO, DA.</entry>
+<entry>ACRECIMIENTO.</entry>
+<entry>ACREDITAR.</entry>
+  <subentry>ACREDITAR.</subentry>
+  <subentry>ACREDITAR.</subentry>
+<entry>ACREDITARSE.</entry>
+<PastPart>ACREDITADO, DA.</PastPart>
+<skip>Y</skip>
+<entry>ACREEDOR.</entry>
+  <subentry>ACREEDOR.</subentry>
+<entry>ACREER.</entry>
+<entry>ACREMENTE.</entry>
+<entry>ACRIBADURA.</entry>
+<entry>ACRIBADURAS.</entry>
+<entry>ACRIBAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444652.xml
+-----------------
+
+  <subentry>ACRIBAR.</subentry>
+<PastPart>ACRIBADO, DA.</PastPart>
+<entry>ACRIBILLAR.</entry>
+  <subentry>ACRIBILLAR</subentry>
+<PastPart>ACRIBILLADO, DA.</PastPart>
+<entry>ACRIMINACION.</entry>
+<entry>ACRIMINADOR.</entry>
+<entry>ACRIMINAR.</entry>
+<PastPart>ACRIMINADO, DA.</PastPart>
+<entry>ACRIMONIA.</entry>
+  <subentry>ACRIMONIA.</subentry>
+  <subentry>ACRIMONIA.</subentry>
+<entry>ACRISOLAR.</entry>
+  <subentry>ACRISOLAR.</subentry>
+<entry>ARTEAG.</entry>
+<check>ACRISOLARSE.</check>
+<PastPart>ACRISOLADO, DA.</PastPart>
+<entry>ACRONYCTO, TA.</entry>
+<entry>ACROSTICO, CA.</entry>
+<entry>ACROTERA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444653.xml
+-----------------
+
+<entry>ACROY.</entry>
+<entry>ACTAS.</entry>
+  <subentry>ACTAS DE LOS SANTOS.</subentry>
+<entry>ACTITADERO, RA.</entry>
+<entry>ACTITAR.</entry>
+<PastPart>ACTITADO, DA.</PastPart>
+<entry>ACTIVIDAD.</entry>
+  <subentry>ACTIVIDAD.</subentry>
+<entry>ACTIVO, VA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444654.xml
+-----------------
+
+<entry>ACTO.</entry>
+<entry>ACTOS.</entry>
+  <subentry>ACTOS DE CABALLERIA.</subentry>
+  <subentry>ACTOS DE COMEDIA.</subentry>
+  <subentry>ACTOS DE LOS APOSTOLES.</subentry>
+  <subentry>ACTOS DE POSSESSION.</subentry>
+  <subentry>ACTOS DE UNIVERSIDAD.</subentry>
+  <subentry>ACTOS DISTINTIVOS.</subentry>
+  <subentry>ACTOS POSITIVOS.</subentry>
+  <subentry>ACTOS PUBLICOS.</subentry>
+<skip>Y</skip>
+<check>ACTOR.</check>
+<skip>Y</skip>
+<entry>ACTUAL.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444655.xml
+-----------------
+
+<entry>ACTUALMENTE.</entry>
+<entry>ACTUAR.</entry>
+  <subentry>ACTUAR.</subentry>
+<check>ACTUANTE.</check>
+<check>ACTUADO, DA.</check>
+<entry>ACTUARIO</entry>
+<entry>ACTUOSO, SA.</entry>
+<entry>ACUCHILLADIZO, ZA.</entry>
+<entry>ACUCHILLADOR.</entry>
+<entry>ACUCHILLAR.</entry>
+  <subentry>ACUCHILLAR.</subentry>
+<entry>ACUCHILLARSE.</entry>
+<PastPart>ACUCHILLADO, DA.</PastPart>
+<PastPart>ACUCHILLADO.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444656.xml
+-----------------
+
+<check>ACUCIA.</check>
+<entry>ACUCIAR.</entry>
+<PastPart>ACUCIADO, DA.</PastPart>
+<entry>ACUCIOSAMENTE.</entry>
+<entry>ACUCIOSO, SA.</entry>
+<entry>ACUDIR.</entry>
+<skip>Y</skip>
+  <subentry>ACUDIR.</subentry>
+  <subentry>ACUDIR.</subentry>
+  <subentry>ACUDIR.</subentry>
+  <subentry>ACUDIR LA TIERRA CON FRUTOS.</subentry>
+<entry>ACUENTO.</entry>
+<entry>ACUERDO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444657.xml
+-----------------
+
+  <subentry>ACUERDO.</subentry>
+  <subentry>ACUERDO.</subentry>
+  <subentry>ACUERDO.</subentry>
+  <subentry>ACUERDO.</subentry>
+  <subentry>ACUERDO.</subentry>
+  <subentry>ACUERDO DE ASSESSOR.</subentry>
+<entry>ACUERDOS DEL REINO.</entry>
+<skip>A</skip>
+<entry>ACUERNAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444658.xml
+-----------------
+
+<entry>ACUESTAS.</entry>
+<entry>ACUITARSE.</entry>
+<entry>ACULLA.</entry>
+<entry>ACULLIR.</entry>
+<PastPart>ACULLIDO, DA.</PastPart>
+<entry>ACUMBRAR.</entry>
+<PastPart>ACUMBRADO, DA.</PastPart>
+<entry>ACUMEN</entry>
+<entry>ACUMULACION.</entry>
+<entry>ACUMULADOR</entry>
+<entry>ACUMULAR.</entry>
+  <subentry>ACUMULAR.</subentry>
+  <subentry>ACUMULAR.</subentry>
+  <subentry>ACUMULAR.</subentry>
+<PastPart>ACUMULADO, DA.</PastPart>
+<check>........</check>
+<entry>ACUñADOR</entry>
+<entry>ACUñAR.</entry>
+  <subentry>ACUñAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444659.xml
+-----------------
+
+  <subentry>ACUñAR.</subentry>
+<PastPart>ACUñADO, DA.</PastPart>
+<entry>ACURRUCARSE.</entry>
+<entry>ACURRULLAR.</entry>
+<entry>ACUSACION.</entry>
+<entry>ACUSADOR.</entry>
+  <subentry>ACUSADOR, RA.</subentry>
+<entry>ACUSAMIENTO.</entry>
+<entry>ACUSANZA.</entry>
+<entry>ACUSAR.</entry>
+  <subentry>ACUSAR.</subentry>
+  <subentry>ACUSAR.</subentry>
+<entry>ACUSARSE.</entry>
+<check>ACUSAR LA CONCIENCIA A UNO.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444660.xml
+-----------------
+
+  <subentry>ACUSAR EL RECIBO DE ALGUNA CARTA, O EL AVLSO, O NOTICIA DE ALGUNA COSA.</subentry>
+<check>ACUSANTE.</check>
+<check>ACUSADO, DA.</check>
+<entry>ACUSATIVO.</entry>
+<entry>ACUSATORIO, RIA.</entry>
+<entry>ACUTANGULO, V OXIGONIO.</entry>
+<entry>ACUTISSIMO, MA.</entry>
+<entry>AD.</entry>
+<entry>ADAFINA, O ADEFINA,</entry>
+<entry>ADAGIO.</entry>
+<entry>ADAGUAR.</entry>
+<PastPart>ADAGUADO, DA.</PastPart>
+<entry>ADAHALA.</entry>
+<entry>ADALA</entry>
+<entry>ADALID.</entry>
+<entry>ADAMADILLO, DA.</entry>
+<entry>ADAMADURA.</entry>
+<entry>ADAMAMIENTO.</entry>
+<entry>ADAMAR.</entry>
+<entry>ADAMARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444661.xml
+-----------------
+
+<PastPart>ADAMADO, DA.</PastPart>
+<PastPart>ADAMADO, DA.</PastPart>
+<entry>ADAMASCADO, DA.</entry>
+<entry>ADANISMO.</entry>
+<entry>ADAPONER.</entry>
+<entry>ADAPTAR.</entry>
+<PastPart>ADAPTADO, DA.</PastPart>
+<PastPart>ADAPTADO.</PastPart>
+<entry>ADARAGADANTE.</entry>
+<entry>ADARGA.</entry>
+<entry>ADARGAMA.</entry>
+<entry>ADARGAR.</entry>
+<entry>ADARGARSE.</entry>
+<entry>SILVEIR.</entry>
+<check>ADARGARSE.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444662.xml
+-----------------
+
+<PastPart>ADARGADO, DA.</PastPart>
+<entry>ADARME.</entry>
+<entry>ADARMENTO.</entry>
+<entry>ADARVAR.</entry>
+<entry>ADARVE.</entry>
+  <subentry>ADARVE.</subentry>
+<skip>O</skip>
+<entry>ADEFINA.</entry>
+<entry>ADEFUERAS.</entry>
+<entry>ADEHALA.</entry>
+<entry>ADELANTACION.</entry>
+<entry>ADELANTADAMENTE.</entry>
+<entry>ADELANTADO.</entry>
+<entry>ADELANTAMIENTO.</entry>
+  <subentry>ADELANTAMIENTO.</subentry>
+<entry>ADELANTAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444663.xml
+-----------------
+
+  <subentry>ADELANTAR.</subentry>
+  <subentry>ADELANTAR.</subentry>
+  <subentry>ADELANTAR.</subentry>
+  <subentry>ADELANTAR.</subentry>
+<entry>ADELANTARSE.</entry>
+<skip>Y</skip>
+  <subentry>ADELANTARSE.</subentry>
+<PastPart>ADELANTADO, DA.</PastPart>
+<entry>ADELANTE.</entry>
+  <subentry>ADELANTE.</subentry>
+  <subentry>ADELANTE.</subentry>
+<entry>ADELANTRE.</entry>
+<entry>ADELFA.</entry>
+<entry>ADELGAZAMIENTO.</entry>
+<entry>ADELGAZAR.</entry>
+  <subentry>ADELGAZAR.</subentry>
+  <subentry>ADELGAZAR.</subentry>
+  <subentry>ADELGAZAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444664.xml
+-----------------
+
+<entry>ADELGAZARSE.</entry>
+<entry>LOP.</entry>
+<check>ADELGAZADO, DA.</check>
+<entry>ADELIñARSE.</entry>
+<Itypo>ADELlñADO, DA.</Itypo>
+<entry>ADEMAN.</entry>
+  <subentry>ADEMAN.</subentry>
+<entry>ADEMAS.</entry>
+<skip>Y</skip>
+<entry>ARTEAG.</entry>
+<check>ADEMAS.</check>
+<entry>ADENSAR.</entry>
+<PastPart>ADENSADO, DA.</PastPart>
+<entry>ADENTELLADAS.</entry>
+<entry>ADENTELLAR.</entry>
+  <subentry>ADENTELLAR UNA PARED.</subentry>
+<PastPart>ADENTELLADO, DA.</PastPart>
+<entry>ADENTRO.</entry>
+<entry>ADEPHESIOS.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444665.xml
+-----------------
+
+<entry>ADEQUACION</entry>
+<entry>ADEQUADAMENTE.</entry>
+<entry>ADEQUAR.</entry>
+<PastPart>ADEQUADO, DA.</PastPart>
+<PastPart>ADEQUADO.</PastPart>
+<entry>ADERECHAS.</entry>
+<check>} }</check>
+<entry>ADERENCIA.</entry>
+<entry>ADEREZADURA</entry>
+<entry>ADEREZAMIENTO.</entry>
+<entry>ADEREZAR.</entry>
+  <subentry>ADEREZAR.</subentry>
+  <subentry>ADEREZAR.</subentry>
+  <subentry>ADEREZAR.</subentry>
+<entry>ADEREZARSE.</entry>
+<PastPart>ADEREZADO, DA.</PastPart>
+<entry>ADEREZO.</entry>
+  <subentry>ADEREZO.</subentry>
+  <subentry>ADEREZO.</subentry>
+<entry>ADERRA.</entry>
+<entry>ADESHORA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444666.xml
+-----------------
+
+  <subentry>ADESHORA.</subentry>
+<entry>ADESTRADOR, RA.</entry>
+<entry>ADESTRAMIENTO.</entry>
+<entry>ADESTRANZA.</entry>
+<entry>ADESTRAR.</entry>
+  <subentry>ADESTRAR.</subentry>
+  <subentry>ADESTRAR.</subentry>
+<entry>ADESTRARSE.</entry>
+<PastPart>ADESTRADO, DA.</PastPart>
+<entry>ADEUDARSE.</entry>
+<PastPart>ADEUDADO, DA.</PastPart>
+<PastPart>ADEUDADO.</PastPart>
+<PastPart>ADEUDADO.</PastPart>
+<entry>ADEVINACION.</entry>
+<entry>ADEVINADERO, RA.</entry>
+<entry>ADEVINANZA.</entry>
+<entry>ADEVINAR.</entry>
+<entry>ADEVINO.</entry>
+<entry>ADEXAR.</entry>
+<entry>ADHERECER.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444667.xml
+-----------------
+
+<entry>ADHERENCIA.</entry>
+<entry>ADHERIR.</entry>
+  <subentry>ADHERIR AL DICTAMEN DE UNO.</subentry>
+<check>ADHERENTE.</check>
+  <subentry>ADHERENTE.</subentry>
+  <subentry>ADHERENTE.</subentry>
+  <subentry>ADHERENTE.</subentry>
+<entry>ADHESION</entry>
+<entry>ADIADO.</entry>
+<entry>ADIAMANTADO, DA.</entry>
+<check>........</check>
+<entry>ADICION.</entry>
+  <subentry>ADICION.</subentry>
+<entry>ADICIONADOR.</entry>
+<entry>ADICIONAR.</entry>
+<PastPart>ADICIONADO, DA.</PastPart>
+<entry>ADINTELADO.</entry>
+<entry>ADIR.</entry>
+<entry>ADITAMENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444668.xml
+-----------------
+
+<entry>ADITICIO, CIA.</entry>
+<entry>ADIVA, O ADIVE.</entry>
+<entry>ADIVAS.</entry>
+<entry>ADIVINADOR.</entry>
+<check>ADIVINACION.</check>
+  <subentry>ADIVINACION.</subentry>
+<entry>ADIVINAMIENTO.</entry>
+<entry>ADIVINANZA.</entry>
+<entry>ADIVINAR.</entry>
+  <subentry>ADIVINAR.</subentry>
+  <subentry>ADIVINAR.</subentry>
+  <subentry>ADIVINAR.</subentry>
+  <subentry>ADIVINAR.</subentry>
+  <subentry>ADIVINAR CON EL DEDO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444669.xml
+-----------------
+
+<check>ADIVINA QUIEN TE DIO, QUE LA MANO TE CORTO.</check>
+<entry>ADIVINAR QUE AZOTAN.</entry>
+<PastPart>ADIVINADO, DA.</PastPart>
+<Itypo>ADlVINO, NA.</Itypo>
+<entry>ADIVINOS.</entry>
+<check>ADIVINO DE MARCHENA, QUE EL SOL PUESTO EL ASNO A LA SOMBRA QUEDA.</check>
+<entry>ADJETIVACION.</entry>
+<entry>ADJETIVAR.</entry>
+<check>ADJETIVA BIEN.</check>
+<entry>ADJETIVAR PARA PERAS.</entry>
+<PastPart>ADJETIVADO, DA.</PastPart>
+<entry>ADJETIVO.</entry>
+<entry>ADJUDICACION.</entry>
+<entry>ADJUDICAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444670.xml
+-----------------
+
+<entry>ADJUDICARSE.</entry>
+<PastPart>ADJUDICADO, DA.</PastPart>
+<entry>ADJUNCION.</entry>
+  <subentry>ADJUNCION.</subentry>
+<entry>ADJUNGIR.</entry>
+<entry>ADJUNTO, TA.</entry>
+<entry>ADJUNTOS.</entry>
+<entry>ADJURABLE.</entry>
+<entry>ADMINICULAR.</entry>
+<PastPart>ADMINICULADO, DA.</PastPart>
+<entry>ADMINICULO.</entry>
+<entry>ADMINISTRACION.</entry>
+<entry>ADMINISTRADOR.</entry>
+<entry>ADMINISTRADORCILLOS COMER EN PLATA, Y MO- RIR EN GRILLOS.</entry>
+<entry>ADMINISTRAR.</entry>
+<skip>Y</skip>
+  <subentry>ADMINISTRAR.</subentry>
+  <subentry>ADMINISTRAR.</subentry>
+  <subentry>ADMINISTRAR.</subentry>
+  <subentry>ADMINISTRAR.</subentry>
+  <subentry>ADMINISTRAR JUSTICIA.</subentry>
+  <subentry>ADMINISTRAR SACRAMENTOS.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444671.xml
+-----------------
+
+<PastPart>ADMINISTRADO, DA.</PastPart>
+<entry>ADMIRABLE.</entry>
+<entry>ADMIRABLEMENTE,</entry>
+<entry>ADMIRACION.</entry>
+  <subentry>ADMIRACION.</subentry>
+  <subentry>ADMIRACION.</subentry>
+<entry>ADMIRANDO, DA.</entry>
+<entry>ADMIRAR.</entry>
+<check>ACMIRAR.</check>
+<entry>ADMIRARSE.</entry>
+<skip>Y</skip>
+<PastPart>ADMIRADO, DA.</PastPart>
+<entry>ADMIRATIVO, VA.</entry>
+<entry>ADMISSION.</entry>
+<entry>ADMITIR.</entry>
+  <subentry>ADMITIR.</subentry>
+<PastPart>ADMITIDO, DA.</PastPart>
+<PastPart>ADMITIDO.</PastPart>
+<entry>ADMONICION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444672.xml
+-----------------
+
+  <subentry>ADMONICION. Y</subentry>
+<entry>ADMONITOR.</entry>
+<entry>ADNATA</entry>
+<entry>ADO.</entry>
+  <subentry>ADO LAS DAN, LAS TOMAN.</subentry>
+<entry>ADOBAR.</entry>
+  <subentry>ADOBAR.</subentry>
+  <subentry>ADOBAR.</subentry>
+  <subentry>ADOBAR.</subentry>
+<check>ADOBA TU PAñO,</check>
+<entry>ADOBADO, DA.</entry>
+  <subentry>ADOBADO.</subentry>
+<entry>ADOBE.</entry>
+<entry>ADOBERIA</entry>
+<entry>ADOBIO.</entry>
+<entry>ADOBO.</entry>
+<skip>Y</skip>
+  <subentry>ADOBO.</subentry>
+  <subentry>ADOBO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444673.xml
+-----------------
+
+  <subentry>ADOBO.</subentry>
+<entry>ADOCENAR.</entry>
+  <subentry>ADOCENAR.</subentry>
+<PastPart>ADOCENADO, DA.</PastPart>
+<entry>ADOLECER.</entry>
+  <subentry>ADOLECER.</subentry>
+  <subentry>ADOLECER.</subentry>
+<entry>ADOLECERSE.</entry>
+<entry>ADOLESCENCIA.</entry>
+<entry>ADOLESCENTE.</entry>
+<entry>ADOLO</entry>
+<entry>ADOLORADO.</entry>
+<entry>ADONDE.</entry>
+  <subentry>ADONDE BUENO.</subentry>
+<entry>ADONICIDA.</entry>
+<entry>ADOPCION.</entry>
+<entry>ADOPTADOR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444674.xml
+-----------------
+
+<entry>ADOPTAR.</entry>
+  <subentry>ADOPTAR.</subentry>
+<check>ADOPTANTE.</check>
+<check>ADOPTADO, DA.</check>
+<entry>ADOPTIVO, VA.</entry>
+  <subentry>ADOPTIVO.</subentry>
+<entry>ADOR.</entry>
+<entry>ADORABLE.</entry>
+<entry>ADORACION.</entry>
+<entry>ADORADOR.</entry>
+<entry>ADORAR.</entry>
+  <subentry>ADORAR.</subentry>
+  <subentry>ADORAR.</subentry>
+<entry>QUEV.</entry>
+<check>ADORADO, DA.</check>
+<entry>ADORATORIO.</entry>
+<entry>ADORMECEDOR.</entry>
+<entry>ADORMECER.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444675.xml
+-----------------
+
+  <subentry>ADORMECER.</subentry>
+  <subentry>ADORMECER.</subentry>
+<entry>ADORMECERSE.</entry>
+<entry>ADORMECIDO, DA.</entry>
+<entry>ADORMECIMIENTO.</entry>
+<entry>ADORMIDERA.</entry>
+<entry>ADORMIMIENTO.</entry>
+<entry>ADORMIR.</entry>
+<entry>ADORMIRSE.</entry>
+<PastPart>ADORMIDO, DA.</PastPart>
+<entry>ADORNAMIENTO.</entry>
+<entry>ADORNAR.</entry>
+  <subentry>ADORNAR.</subentry>
+  <subentry>ADORNAR.</subentry>
+<PastPart>ADORNADO, DA.</PastPart>
+<entry>ADORNO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444676.xml
+-----------------
+
+  <subentry>ADORNO.</subentry>
+  <subentry>ADORNO.</subentry>
+  <subentry>ADORNO.</subentry>
+<skip>A DOS.</skip>
+<skip>A DOSPOR TRES. }</skip>
+<entry>ADOTAR, ADOTADO, ADOTIVO.</entry>
+<entry>ADQUIRIDOR.</entry>
+<entry>ADQUIRIR.</entry>
+  <subentry>ADQUIRIR.</subentry>
+<PastPart>ADQUIRIDO, DA.</PastPart>
+<entry>ADQUISITO, TA.</entry>
+<check>ADQUISICION.</check>
+<entry>ADQUISIDOR, ORA.</entry>
+<entry>ADREDAñAS.</entry>
+<entry>ADREDE.</entry>
+<entry>ADREDEMENTE.</entry>
+<entry>ADRESO</entry>
+<entry>ADREZAR.</entry>
+<PastPart>ADREZADO.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444677.xml
+-----------------
+
+<entry>ADREZO.</entry>
+<entry>ADRIANES.</entry>
+<entry>ADROLLA.</entry>
+<entry>ADRUBADO, DA.</entry>
+<entry>ADSTRICCION</entry>
+<entry>ADSTRINGIR, Y ADSTRINGENTE.</entry>
+<entry>ADUANA.</entry>
+  <subentry>ADUANA.</subentry>
+<entry>ADUANERO.</entry>
+<entry>ADUAR.</entry>
+<entry>ADUCAR.</entry>
+<entry>ADUCHO, CHA.</entry>
+  <subentry>ADUCHO.</subentry>
+<check>ADUCIR.</check>
+  <subentry>ADUCIR.</subentry>
+  <subentry>ADUCIR.</subentry>
+  <subentry>ADUCIR.</subentry>
+<PastPart>ADUCIDO, DA.</PastPart>
+<entry>ADUFE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444678.xml
+-----------------
+
+<skip>Y</skip>
+<entry>ADUFERO.</entry>
+<entry>ADULA.</entry>
+  <subentry>ADULA.</subentry>
+<entry>ADULACION.</entry>
+  <subentry>ADULACION.</subentry>
+<entry>ADULADOR.</entry>
+<entry>ADULAR.</entry>
+<entry>ADULARSE.</entry>
+<PastPart>ADULADO, DA.</PastPart>
+<entry>ADULEAR.</entry>
+<entry>ADULERO.</entry>
+  <subentry>ADULERO.</subentry>
+<entry>ADULTERACION</entry>
+<entry>ADULTERADOR, RA.</entry>
+  <subentry>ADULTERADOR.</subentry>
+<entry>ADULTERAR.</entry>
+  <subentry>ADULTERAR.</subentry>
+<check>ADULTERANTE.</check>
+<check>ADULTERADO, DA.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444679.xml
+-----------------
+
+<entry>ADULTERINAMENTE.</entry>
+<entry>ADULTERINO, NA.</entry>
+<entry>ADULTERIO.</entry>
+<entry>ADULTERO, RA.</entry>
+<entry>ADULTO, TA.</entry>
+  <subentry>ADULTO.</subentry>
+<entry>CAST. SOLORZ.</entry>
+<check>ADULZAR.</check>
+<entry>ADUNAR.</entry>
+<entry>ADUNARSE.</entry>
+<PastPart>ADUNADO, DA.</PastPart>
+<entry>ADUNCO, CA.</entry>
+<entry>ADUNIA.</entry>
+<entry>ADUSTION.</entry>
+<entry>ADUSTO, TA.</entry>
+  <subentry>ADUSTO.</subentry>
+<entry>QUEV.</entry>
+<check>ADUSTO.</check>
+<entry>PANT.</entry>
+<check>ADUTAQUE</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444680.xml
+-----------------
+
+<entry>ADVENA.</entry>
+<entry>ADVENEDIZO, ZA.</entry>
+  <subentry>ADVENEDIZO.</subentry>
+<entry>ADVENIDERO, RA.</entry>
+<entry>ADVENIMIENTO.</entry>
+<entry>ADVENIR.</entry>
+<entry>ADVENTICIO, CIA.</entry>
+<entry>ADVERACION.</entry>
+<entry>ADVERAR.</entry>
+<entry>ADVERBIO.</entry>
+<entry>ADVERSAMENTE.</entry>
+<entry>ADVERSARIO, RIA.</entry>
+  <subentry>ADVERSARIO.</subentry>
+<skip>Y</skip>
+<entry>ADVERSARIOS.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444681.xml
+-----------------
+
+<entry>ADVERSATIVO, VA.</entry>
+<entry>ADVERSIDAD.</entry>
+<entry>ADVERSION.</entry>
+<entry>ADVERSO, SA.</entry>
+  <subentry>ADVERSO.</subentry>
+  <subentry>ADVERSO.</subentry>
+<skip>A</skip>
+<entry>ADVERTENCIA.</entry>
+  <subentry>ADVERTENCIA.</subentry>
+<skip>Y</skip>
+  <subentry>ADVERTENCIA.</subentry>
+<entry>ADVERTIDAMENTE.</entry>
+<entry>ADVERTIMIENTO.</entry>
+  <subentry>ADVERTIMIENTO.</subentry>
+<entry>ADVERTIR.</entry>
+  <subentry>ADVERTIR.</subentry>
+  <subentry>ADVERTIR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444682.xml
+-----------------
+
+<PastPart>ADVERTIDO, DA.</PastPart>
+<PastPart>ADVERTIDO, DA.</PastPart>
+<PastPart>ADVERTIDO.</PastPart>
+<entry>ADVIENTO.</entry>
+<entry>ADVOCACION.</entry>
+  <subentry>ADVOCACION.</subentry>
+<entry>ADVOCADO.</entry>
+<entry>ADVOCAR.</entry>
+<skip>Y</skip>
+<entry>GONG.</entry>
+<skip>Y</skip>
+<check>ADVOCAR.</check>
+<entry>ADYACENCIA.</entry>
+<entry>ADYACENTE.</entry>
+<entry>ADYUTORIO.</entry>
+<entry>AECHADERO</entry>
+<entry>AECHADOR</entry>
+<entry>AECHADURAS</entry>
+<entry>AECHAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444683.xml
+-----------------
+
+  <subentry>AECHAR.</subentry>
+<PastPart>AECHADO, DA.</PastPart>
+<entry>AEREO, AEREA.</entry>
+  <subentry>AEREO.</subentry>
+<entry>AEREOMANCIA.</entry>
+<entry>AEREOMANTICO.</entry>
+<entry>AEREOPHILACIOS.</entry>
+<entry>AESCARRAMONCHONES.</entry>
+<entry>AESCONDIDAS.</entry>
+<skip>Y</skip>
+<entry>AESCONDIDILLAS.</entry>
+<entry>AESCURAS.</entry>
+  <subentry>AESCURAS.</subentry>
+  <subentry>AESCURAS.</subentry>
+  <subentry>AESCURAS.</subentry>
+<entry>AESQUADRA.</entry>
+<entry>AEXCUSO.</entry>
+<entry>AFABILIDAD.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444684.xml
+-----------------
+
+<entry>AFABILISSIMO, MA.</entry>
+<entry>AFABLE.</entry>
+<entry>AFABLEMENTE.</entry>
+<entry>AFACIMIENTO.</entry>
+<entry>AFALAGAMENTO.</entry>
+<entry>AFALAGAR.</entry>
+<entry>AFALECER.</entry>
+<entry>AFAMARSE.</entry>
+<PastPart>AFAMADO, DA.</PastPart>
+<entry>AFAN.</entry>
+<entry>AFANADAMENTE.</entry>
+<entry>AFANADOR.</entry>
+<entry>AFANAR.</entry>
+  <subentry>AFANAR, AFANAR, Y NUNCA MEDRAR.</subentry>
+<PastPart>AFANADO, DA.</PastPart>
+<entry>AFAñO.</entry>
+<entry>AFASCALAR.</entry>
+<entry>AFE.</entry>
+<entry>AFEADOR</entry>
+<entry>AFEAMIENTO.</entry>
+<entry>AFEAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444685.xml
+-----------------
+
+  <subentry>AFEAR.</subentry>
+<PastPart>AFEADO, DA.</PastPart>
+<entry>AFECCION.</entry>
+  <subentry>AFECCION.</subentry>
+<entry>AFECTACION.</entry>
+<entry>AFECTADAMENTE.</entry>
+<entry>AFECTADOR.</entry>
+<entry>AFECTAR.</entry>
+  <subentry>AFECTAR.</subentry>
+<PastPart>AFECTADO, DA.</PastPart>
+<PastPart>AFECTADO.</PastPart>
+<entry>AFECTILLO.</entry>
+<entry>AFECTISSIMO, MA.</entry>
+<entry>AFECTIVO, VA.</entry>
+<entry>AFECTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444686.xml
+-----------------
+
+<skip>Y</skip>
+  <subentry>AFECTO.</subentry>
+  <subentry>AFECTO.</subentry>
+  <subentry>AFECTO, TA.</subentry>
+  <subentry>AFECTO.</subentry>
+  <subentry>AFECTO.</subentry>
+  <subentry>AFECTO.</subentry>
+<entry>AFECTUOSAMENTE.</entry>
+<entry>AFECTUOSO, SA.</entry>
+<check>AFECTUOSISSIMAMENTE.</check>
+<entry>AFECTUOSISSIMO, MA.</entry>
+<entry>AFEITADAMENTE.</entry>
+<entry>AFEITADOR, RA.</entry>
+<entry>AFEITAR.</entry>
+  <subentry>AFEITAR.</subentry>
+  <subentry>AFEITAR.</subentry>
+  <subentry>AFEITAR.</subentry>
+  <subentry>AFEITAR LOS CABALLOS Y MULAS, Y OTRAS CABA- LLERIAS.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444687.xml
+-----------------
+
+  <subentry>AFEITAR LOS JARDINES.</subentry>
+<check>AFEITA UN CEPO, PARECERA MANCEBO.</check>
+<entry>LOP.</entry>
+  <subentry>LOP.</subentry>
+<check>AFEITADO, DA.</check>
+<entry>AFEITE.</entry>
+<entry>AFELPADO, DA.</entry>
+<entry>AFEMINACION.</entry>
+<entry>AFEMINAR.</entry>
+<PastPart>AFEMINADO, DA.</PastPart>
+<PastPart>AFEMINADO.</PastPart>
+<entry>AFERES.</entry>
+<entry>AFERMOSEAR.</entry>
+<entry>AFERRADOR.</entry>
+<entry>AFERRAMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444688.xml
+-----------------
+
+<entry>AFERRAR.</entry>
+  <subentry>AFERRAR.</subentry>
+<entry>AFERRARSE.</entry>
+  <subentry>AFERRARSE.</subentry>
+<PastPart>AFERRADO, DA.</PastPart>
+<entry>AFERRAVELAS</entry>
+<entry>AFERVENTAR.</entry>
+<entry>AFERVORARSE.</entry>
+<entry>AFERVORIZAR.</entry>
+<PastPart>AFERVORIZADO, DA.</PastPart>
+<entry>AFIANZAR.</entry>
+  <subentry>AFIANZAR.</subentry>
+  <subentry>AFIANZAR.</subentry>
+<PastPart>AFIANZADO, DA.</PastPart>
+<entry>AFICE</entry>
+<entry>AFICION.</entry>
+<entry>AFICIONADAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444689.xml
+-----------------
+
+<entry>AFICIONADISSIMO, MA.</entry>
+<entry>AFICIONAR.</entry>
+<entry>AFICIONARSE.</entry>
+<PastPart>AFICIONADO, DA.</PastPart>
+<entry>AFIGIR.</entry>
+<entry>AFIXO, XA.</entry>
+<check>AFIJADO, DA.</check>
+<entry>AFIJAR.</entry>
+<entry>AFILAR.</entry>
+  <subentry>AFILAR EL INGENIO.</subentry>
+<entry>AFILARSE.</entry>
+<PastPart>AFILADO, DA.</PastPart>
+<entry>AFILIGRANADO, DA.</entry>
+<entry>AFILLAR.</entry>
+<skip>A FIN.</skip>
+<entry>AFIN.</entry>
+<entry>AFINACION.</entry>
+<entry>AFINADAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444690.xml
+-----------------
+
+<entry>AFINADOR.</entry>
+<entry>AFINADURA</entry>
+<entry>AFINAR.</entry>
+  <subentry>AFINAR LOS METALES.</subentry>
+  <subentry>AFINAR UN INSTRUMENTO MUSICO,</subentry>
+  <subentry>AFINAR LA VOZ.</subentry>
+<PastPart>AFINADO, DA.</PastPart>
+<PastPart>AFINADO.</PastPart>
+<entry>AFINCADAMENTE.</entry>
+<entry>AFINCAMIENTO.</entry>
+  <subentry>AFINCAMIENTO.</subentry>
+<entry>AFINCAR.</entry>
+<PastPart>AFINCADO, DA.</PastPart>
+<entry>AFINCO.</entry>
+<entry>AFINIDAD.</entry>
+  <subentry>AFINIDAD.</subentry>
+<entry>AFINOJARSE.</entry>
+<PastPart>AFINOJADO, DA.</PastPart>
+<entry>AFIR.</entry>
+<entry>AFIRMACION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444691.xml
+-----------------
+
+<entry>AFIRMADOR</entry>
+<entry>AFIRMAMIENTO.</entry>
+<entry>AFIRMANZA.</entry>
+<entry>AFIRMAR.</entry>
+  <subentry>AFIRMAR.</subentry>
+  <subentry>AFIRMAR.</subentry>
+<entry>AFIRMARSE.</entry>
+  <subentry>AFIRMARSE.</subentry>
+  <subentry>AFIRMARSE.</subentry>
+<check>AFIRMANTE.</check>
+<check>AFIRMADO, DA.</check>
+<entry>AFIRMATIVAMENTE.</entry>
+<entry>AFIRMATIVO, VA.</entry>
+<entry>AFISTOLAR.</entry>
+<PastPart>AFISTOLADO, DA.</PastPart>
+<entry>AFIXAMIENTO.</entry>
+<entry>AFLECHATES.</entry>
+<entry>AFLETAMIENTO.</entry>
+<entry>AFLETAR.</entry>
+<entry>AFLICCION.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444692.xml
+-----------------
+
+<entry>AFLICTO, TA.</entry>
+<entry>GARCIL.</entry>
+<check>AFLIGIDAMENTE.</check>
+<entry>AFLIGIMIENTO.</entry>
+<entry>AFLIGIR.</entry>
+<PastPart>AFLIGIDO, DA.</PastPart>
+<entry>AFLOXADURA</entry>
+<entry>AFLOXAR.</entry>
+  <subentry>AFLOXAR.</subentry>
+  <subentry>AFLOXAR.</subentry>
+  <subentry>AFLOXAR AL ARCO LA CUERDA.</subentry>
+<entry>AFLUENCIA.</entry>
+  <subentry>AFLUENCIA.</subentry>
+<entry>AFLUENTE.</entry>
+<entry>AFO.</entry>
+<entry>AFOGAR.</entry>
+<entry>AFOLLAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444693.xml
+-----------------
+
+  <subentry>AFOLLAR.</subentry>
+  <subentry>AFOLLAR.</subentry>
+<PastPart>AFOLLADO, DA.</PastPart>
+<PastPart>AFOLLADO.</PastPart>
+<entry>AFONDAR.</entry>
+  <subentry>AFONDAR.</subentry>
+<entry>AFORADOR</entry>
+<entry>AFORAMIENTO.</entry>
+<entry>AFORAR.</entry>
+  <subentry>AFORAR.</subentry>
+<PastPart>AFORADO, DA.</PastPart>
+<entry>AFORISMA.</entry>
+<entry>AFORISMO.</entry>
+<entry>AFORO</entry>
+<entry>AFORRAR.</entry>
+  <subentry>AFORRAR.</subentry>
+<entry>AFORRARSE.</entry>
+<check>AFORRA GAITAS.</check>
+<entry>AFORRADO, DA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444694.xml
+-----------------
+
+<entry>AFORRO.</entry>
+<entry>AFORTUNAR.</entry>
+<PastPart>AFORTUNADO, DA.</PastPart>
+<entry>AFRATELARSE.</entry>
+<entry>AFRECHO.</entry>
+<entry>AFRENTA.</entry>
+  <subentry>AFRENTA.</subentry>
+<entry>AFRENTAR.</entry>
+<entry>AFRENTARSE.</entry>
+<PastPart>AFRENTADO, DA.</PastPart>
+<entry>AFRENTOSAMENTE.</entry>
+<entry>AFRENTOSISSIMAMENTE.</entry>
+<entry>AFRENTOSO, SA.</entry>
+<entry>AFRETAR.</entry>
+<entry>AFRICANO, NA.</entry>
+<entry>AFRICO.</entry>
+<entry>AFRISONADO, DA.</entry>
+<entry>AFRONTAMIENTO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444695.xml
+-----------------
+
+  <subentry>AFRONTAMIENTO.</subentry>
+<entry>AFRONTARSE.</entry>
+<check>AFRONTAR.</check>
+  <subentry>AFRONTAR.</subentry>
+<PastPart>AFRONTADO, DA.</PastPart>
+<entry>AFRUENTA, O AFRUENTO.</entry>
+<entry>AFRUENTAR.</entry>
+<entry>AFUCIAR.</entry>
+<entry>AFUER.</entry>
+<entry>AFUERA.</entry>
+<entry>AFUFA</entry>
+<entry>AFUFAR, Y AFUFARSE.</entry>
+<entry>QUEV.</entry>
+<check>AFUFOLAS, O AFUFELAS.</check>
+<entry>AFUFON.</entry>
+<entry>AFUMADA.</entry>
+<entry>AFUMAR.</entry>
+<entry>AFUSTE.</entry>
+<entry>AFUYENTAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444696.xml
+-----------------
+
+<entry>AGACHADIZA.</entry>
+<entry>AGACHARSE.</entry>
+<PastPart>AGACHADO, DA.</PastPart>
+<entry>AGALLA.</entry>
+  <subentry>AGALLA, O AGALLAS.</subentry>
+  <subentry>AGALLA, O AGALLAS.</subentry>
+<skip>Y</skip>
+<entry>AGALLONES.</entry>
+<entry>AGAMITAR.</entry>
+<entry>AGARBARSE.</entry>
+<PastPart>AGARBADO, DA.</PastPart>
+<entry>AGARICO.</entry>
+<entry>AGARRADOR.</entry>
+<entry>AGARRAMA.</entry>
+<entry>AGARRAR.</entry>
+  <subentry>AGARRAR.</subentry>
+<entry>AGARRARSE DE UN PELO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444697.xml
+-----------------
+
+<check>AGARRANTE.</check>
+<check>AGARRADO, DA.</check>
+  <subentry>AGARRADO.</subentry>
+<entry>AGARRO.</entry>
+<entry>BURG.</entry>
+<check>AGARROCHAR.</check>
+<PastPart>AGARROCHADO, DA.</PastPart>
+<entry>AGARROTAR.</entry>
+<PastPart>AGARROTADO, DA.</PastPart>
+<entry>AGASAJADOR.</entry>
+<entry>AGASAJAR.</entry>
+  <subentry>AGASAJAR.</subentry>
+<PastPart>AGASAJADO, DA.</PastPart>
+<skip>Y</skip>
+<entry>AGASAJO.</entry>
+  <subentry>AGASAJO.</subentry>
+  <subentry>AGASAJO.</subentry>
+<entry>AGASTAR.</entry>
+<entry>AGATA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444698.xml
+-----------------
+
+<entry>AGATAS.</entry>
+<entry>AGAVANZA.</entry>
+<entry>AGAVILLAR.</entry>
+  <subentry>AGAVILLAR.</subentry>
+<PastPart>AGAVILLADO, DA.</PastPart>
+<entry>AGAZAPAR.</entry>
+<entry>AGAZAPARSE.</entry>
+<PastPart>AGAZAPADO, DA.</PastPart>
+<entry>AGEDREZ.</entry>
+<entry>AGEGADO, DA.</entry>
+<entry>AGENADOR.</entry>
+<entry>AGENAR.</entry>
+<PastPart>AGENADO.</PastPart>
+<entry>AGENCIA.</entry>
+<entry>AGENCIAR.</entry>
+<PastPart>AGENCIADO, DA.</PastPart>
+<entry>AGENCIOSO, SA.</entry>
+<entry>AGENO.</entry>
+<entry>AGÉNOLLARSE.</entry>
+<check>AGENTE.</check>
+  <subentry>AGENTE.</subentry>
+<entry>AGENUZ.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444699.xml
+-----------------
+
+<entry>AGESTADO. BIEN O MAL AGESTADO.</entry>
+<entry>AGIBLE.</entry>
+<entry>AGIGANTADO, DA.</entry>
+<entry>AGIL.</entry>
+<entry>AGILIDAD.</entry>
+  <subentry>AGILIDAD.</subentry>
+<entry>AGILITAR.</entry>
+<PastPart>AGILITADO, DA.</PastPart>
+<entry>AGILMENTE.</entry>
+<entry>AGIRONAR.</entry>
+<PastPart>AGIRONADO, DA.</PastPart>
+<entry>AGITACION.</entry>
+<entry>AGITAR.</entry>
+<check>AGITANTE.</check>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444700.xml
+-----------------
+
+<check>AGITADO, DA.</check>
+<entry>AGLAYARSE.</entry>
+<PastPart>AGLAYADO, DA.</PastPart>
+<entry>AGLAYO</entry>
+<entry>AGNACION.</entry>
+  <subentry>AGNACION RIGUROSA.</subentry>
+  <subentry>AGNACION ARTIFICIOSA,</subentry>
+<entry>AGNADO, DA.</entry>
+<entry>AGNOCASTO.</entry>
+<entry>AGNOMINACION.</entry>
+<entry>AGNUSDEI.</entry>
+  <subentry>AGNUSDEI.</subentry>
+<entry>AGOBIAR.</entry>
+  <subentry>AGOBIAR.</subentry>
+<PastPart>AGOBIADO, DA.</PastPart>
+<entry>AGOLAR.</entry>
+<entry>AGONAL, O FIESTAS AGONALES.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444701.xml
+-----------------
+
+<entry>GONG.</entry>
+<check>AGONIA.</check>
+  <subentry>AGONIA.</subentry>
+  <subentry>AGONIA.</subentry>
+<entry>AGONISTA.</entry>
+<entry>AGONIZAR.</entry>
+<check>AGONIZANTE.</check>
+  <subentry>AGONIZANTE.</subentry>
+  <subentry>AGONIZANTE.</subentry>
+<entry>AGORA.</entry>
+<entry>AGORADOR.</entry>
+<entry>AGORAR.</entry>
+<entry>AGORERIA.</entry>
+<entry>AGORERO.</entry>
+  <subentry>AGORERO.</subentry>
+<entry>AGOSTADERO</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444702.xml
+-----------------
+
+<entry>AGOSTAR.</entry>
+  <subentry>AGOSTAR.</subentry>
+<skip>Y</skip>
+  <subentry>AGOSTAR.</subentry>
+  <subentry>AGOSTAR EL GANADO.</subentry>
+<PastPart>AGOSTADO, DA.</PastPart>
+<entry>AGOSTERO.</entry>
+<entry>AGOSTIZO, ZA.</entry>
+<entry>AGOSTO.</entry>
+  <subentry>AGOSTO FRIO EN ROSTRO.</subentry>
+  <subentry>AGOSTO Y VENDIMIA NO ES CADA DIA, Y SI CADA AñO UNOS CON GANANCIA, Y OTROS CON DA-</subentry>
+<entry>AGOTAR.</entry>
+  <subentry>AGOTAR.</subentry>
+<PastPart>AGOTADO, DA.</PastPart>
+<entry>AGRACERA.</entry>
+<entry>AGRACIAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444703.xml
+-----------------
+
+<PastPart>AGRACIADO, DA.</PastPart>
+<entry>AGRADABLE.</entry>
+<entry>AGRADAMIENTO.</entry>
+<entry>AGRADAR.</entry>
+<PastPart>AGRADADO, DA.</PastPart>
+<entry>AGRADECER.</entry>
+<entry>AGRADECIDO, DA.</entry>
+  <subentry>AGRADECIDO, DA.</subentry>
+<check>AGRADECIDISSIMO, MA.</check>
+<entry>AGRADECIMIENTO.</entry>
+<entry>AGRADO.</entry>
+<entry>AGRAMADERA.</entry>
+<entry>AGRAMAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444704.xml
+-----------------
+
+<entry>AGRAMIZA.</entry>
+<entry>AGRANDAR.</entry>
+<PastPart>AGRANDADO, DA.</PastPart>
+<entry>AGRAVAMIENTO.</entry>
+<entry>AGRAVANTEMENTE.</entry>
+<entry>AGRAVAR.</entry>
+  <subentry>AGRAVAR, O AGRAVARSE.</subentry>
+<check>AGRAVANTE.</check>
+<check>AGRAVADO, DA.</check>
+<entry>AGRAVATORIO, RIA.</entry>
+<entry>AGRAVIADAMENTE.</entry>
+<entry>AGRAVIADOR.</entry>
+<entry>AGRAVIAMIENTO.</entry>
+  <subentry>AGRAVIAMIENTO.</subentry>
+<entry>AGRAVIAR.</entry>
+  <subentry>AGRAVIAR.</subentry>
+  <subentry>AGRAVIAR.</subentry>
+<entry>AGRAVIARSE.</entry>
+<skip>Y</skip>
+<PastPart>AGRAVIADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444705.xml
+-----------------
+
+<entry>AGRAVIO.</entry>
+<entry>AGRAZ.</entry>
+  <subentry>AGRAZ.</subentry>
+<entry>AGRAZADA.</entry>
+<entry>AGRE.</entry>
+<entry>AGREGACION.</entry>
+<entry>AGREGADO.</entry>
+<entry>AGREGAR.</entry>
+<PastPart>AGREGADO, DA.</PastPart>
+<entry>AGRESSOR.</entry>
+<skip>Y</skip>
+<entry>AGRESTE.</entry>
+  <subentry>AGRESTE.</subentry>
+<entry>AGRETE.</entry>
+<entry>AGRIAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444706.xml
+-----------------
+
+<entry>AGRICULTOR.</entry>
+<entry>AGRICULTURA.</entry>
+<entry>AGRIDULCE.</entry>
+<entry>AGRIFOLIO.</entry>
+<entry>AGRILLADO, DA.</entry>
+<entry>AGRIMONIA.</entry>
+<entry>AGRIO, GRIA.</entry>
+  <subentry>AGRIO.</subentry>
+  <subentry>AGRIO.</subentry>
+  <subentry>AGRIO.</subentry>
+  <subentry>AGRIO.</subentry>
+  <subentry>AGRIO.</subentry>
+<entry>AGRO, GRA.</entry>
+<skip>Y</skip>
+<entry>AGRUADOR.</entry>
+<entry>AGRURA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444707.xml
+-----------------
+
+<entry>AGUA.</entry>
+<entry>AGUAARDIENTE.</entry>
+<check>AGUA BENDITA.</check>
+<entry>AGUACHIRLE.</entry>
+<skip>Y</skip>
+<check>AGUA DE CEPAS.</check>
+  <subentry>AGUA DE CERRAJAS.</subentry>
+  <subentry>AGUA DE ESPIRITU SANTO.</subentry>
+  <subentry>AGUA DE PIE.</subentry>
+  <subentry>AGUA FUERTE.</subentry>
+<entry>AGUALLUVIA.</entry>
+<entry>AGUAMANOS.</entry>
+<entry>AGUAMIEL.</entry>
+<entry>AGUANIEVE.</entry>
+<entry>AGUAPIE.</entry>
+<check>AGUA VIVA, Y AGUA MUERTA.</check>
+<entry>AGUAS.</entry>
+  <subentry>AGUAS FALSAS.</subentry>
+  <subentry>AGUAS FIRMES.</subentry>
+  <subentry>AGUAS MAYORES Y MENORES.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444708.xml
+-----------------
+
+  <subentry>AGUAS VERTIENTES.</subentry>
+  <subentry>AGUAS VIVAS.</subentry>
+<check>AGUA VA.</check>
+<entry>PIC. JUST.</entry>
+<skip>A</skip>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444709.xml
+-----------------
+
+<check>AGUA DE POR SAN JUAN QUITA VINO; Y NO DA PAN.</check>
+  <subentry>AGUA DIOS QUE SE QUEMA LA CASA.</subentry>
+  <subentry>AGUA PASSADA NO MUELE MOLINO.</subentry>
+<entry>PIC. JUST.</entry>
+<check>AGUABRESA</check>
+<entry>AGUACATE.</entry>
+<entry>AGUACERO.</entry>
+<check>......................</check>
+<entry>AGUACHA</entry>
+<entry>AGUACHINAR.</entry>
+<check>AGUACIL.</check>
+<entry>AGUACIVERA</entry>
+<entry>AGUADA.</entry>
+  <subentry>AGUADA.</subentry>
+<entry>AGUADAñA.</entry>
+<entry>AGUADERAS.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444710.xml
+-----------------
+
+<entry>AGUADERO.</entry>
+  <subentry>AGUADERO.</subentry>
+<entry>AGUADOR.</entry>
+<entry>AGUADUCHO.</entry>
+  <subentry>AGUADUCHO.</subentry>
+<check>AGUACE.</check>
+<entry>AGUAITADOR</entry>
+<entry>AGUAITAMENTO.</entry>
+<entry>AGUAITAR.</entry>
+<entry>AGUAMANIL.</entry>
+<entry>AGUANOSIDAD.</entry>
+<entry>AGUANOSO, SA.</entry>
+<entry>AGUANTAR.</entry>
+<PastPart>AGUANTADO, DA.</PastPart>
+<entry>AGUANTE.</entry>
+<entry>AGUAR.</entry>
+  <subentry>AGUAR.</subentry>
+<entry>AGUARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444711.xml
+-----------------
+
+<PastPart>AGUADO, DA.</PastPart>
+<PastPart>AGUADO.</PastPart>
+<skip>A</skip>
+<check>AGUARDADA.</check>
+<entry>AGUARDAR.</entry>
+  <subentry>AGUARDAR.</subentry>
+  <subentry>AGUARDAR.</subentry>
+<PastPart>AGUARDADO, DA.</PastPart>
+<entry>AGUARDENTERO, RA.</entry>
+<entry>AGUARRAS</entry>
+<entry>AGUATOCHA.</entry>
+<entry>AGUAZA.</entry>
+<entry>AGUAZAL.</entry>
+<entry>AGUAZO.</entry>
+<entry>AGUCIA.</entry>
+<check>ACUCIOSAMENTE.</check>
+<entry>AGUDAMENTE.</entry>
+  <subentry>AGUDAMENTE.</subentry>
+<entry>AGUDEZA.</entry>
+  <subentry>AGUDEZA.</subentry>
+<entry>AGUDISSIMAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444712.xml
+-----------------
+
+<entry>AGUDISSIMO.</entry>
+<entry>AGUDO, DA.</entry>
+  <subentry>AGUDO.</subentry>
+  <subentry>AGUDO.</subentry>
+  <subentry>AGUDO.</subentry>
+  <subentry>AGUDO.</subentry>
+  <subentry>AGUDO.</subentry>
+  <subentry>AGUDO COMO PUNTA DE COLCHON, U DE VOLO.</subentry>
+<entry>AGUELO.</entry>
+<entry>AGUERA.</entry>
+<entry>AGUERAR.</entry>
+<entry>AGUERO.</entry>
+<skip>Y</skip>
+<entry>AGUIJADA.</entry>
+<entry>AGUIJAR.</entry>
+  <subentry>AGUIJAR.</subentry>
+  <subentry>AGUIJAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444713.xml
+-----------------
+
+<PastPart>AGUIJADO, DA.</PastPart>
+<entry>AGUIJON.</entry>
+  <subentry>AGUIJON.</subentry>
+  <subentry>AGUIJON.</subentry>
+<entry>AGUIJONEAR.</entry>
+<PastPart>AGUIJONEADO, DA.</PastPart>
+<entry>AGUILA.</entry>
+  <subentry>AGUILA.</subentry>
+<Itypo>AGUlLEñO, ñA.</Itypo>
+<entry>AGUILUCHO.</entry>
+<entry>AGUINALDO.</entry>
+<entry>AGUISAR.</entry>
+<PastPart>AGUISADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444714.xml
+-----------------
+
+<entry>AGUJA.</entry>
+  <subentry>AGUJA.</subentry>
+  <subentry>AGUJA.</subentry>
+  <subentry>AGUJA.</subentry>
+  <subentry>AGUJA.</subentry>
+<entry>AGUJAS.</entry>
+  <subentry>AGUJAS DE HACER MEDIA.</subentry>
+<check>AGUJA DE MAREAR.</check>
+<entry>AGUJAZO.</entry>
+<skip>Y</skip>
+<entry>AGUJERAR, O AGUJEREAR.</entry>
+<entry>AGUJERARSE LA PALA.</entry>
+<PastPart>AGUJERADO, DA.</PastPart>
+<entry>AGUJERERO.</entry>
+<entry>AGUJERO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444715.xml
+-----------------
+
+  <subentry>AGUJERO.</subentry>
+  <subentry>AGUJERO.</subentry>
+<skip>A</skip>
+<entry>AGUJETA.</entry>
+<entry>AGUJETAS.</entry>
+<entry>AGUJETERO.</entry>
+<entry>AGUJON.</entry>
+<entry>AGUZADERA.</entry>
+<entry>AGUZADEROS.</entry>
+<entry>AGUZADOR.</entry>
+<entry>AGUZADURA.</entry>
+<entry>AGUZAMIENTO.</entry>
+  <subentry>AGUZAMIENTO.</subentry>
+<entry>AGUZANIEVE.</entry>
+<entry>AGUZAR.</entry>
+  <subentry>AGUZAR.</subentry>
+  <subentry>AGUZAR EL INGENIO PARA ALGUNA COSA.</subentry>
+  <subentry>AGUZAR LAS OREJAS.</subentry>
+  <subentry>AGUZAR LAS OREJAS.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444716.xml
+-----------------
+
+<PastPart>AGUZADO, DA.</PastPart>
+<entry>AH!</entry>
+<entry>AHAJAR.</entry>
+<entry>AHAO.</entry>
+<skip>A</skip>
+<entry>AHASTA.</entry>
+<entry>AHE.</entry>
+<entry>AHECHADERO.</entry>
+<entry>AHECHADOR.</entry>
+<entry>AHECHADURAS.</entry>
+<entry>AHECHAR.</entry>
+<PastPart>AHECHADO.</PastPart>
+<entry>AHECHO.</entry>
+<entry>AHEDO.</entry>
+<entry>AHELEAR.</entry>
+  <subentry>AHELEAR.</subentry>
+<PastPart>AHELEADO, DA.</PastPart>
+<entry>AHEMBRADO.</entry>
+<entry>AHERROJAMIENTO.</entry>
+<entry>AHERROJAR.</entry>
+<PastPart>AHERROJADO, DA.</PastPart>
+<entry>AHERRUMBRARSE.</entry>
+<PastPart>AHERRUMBRADO, DA.</PastPart>
+<entry>AHERVORADAMENTE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444717.xml
+-----------------
+
+<entry>AHERVORARSE.</entry>
+<PastPart>AHERVORADO, DA.</PastPart>
+<entry>AHI.</entry>
+  <subentry>AHI PUERA ELLO. AHI SERA ELLO.</subentry>
+<entry>BARBAD.</entry>
+<check>AHI ME LAS DEN TODAS.</check>
+<entry>AHIDALGADAMENTE.</entry>
+<entry>AHIDALGADO, DA.</entry>
+  <subentry>AHIDALGADO.</subentry>
+<entry>AHIGADADO, DA.</entry>
+  <subentry>AHIGADADO.</subentry>
+<entry>AHIJAMIENTO.</entry>
+<entry>AHIJAR.</entry>
+  <subentry>AHIJAR.</subentry>
+  <subentry>AHIJAR EL GANADO.</subentry>
+  <subentry>AHIJAR.</subentry>
+<PastPart>AHIJADO, DA.</PastPart>
+<PastPart>AHIJADO.</PastPart>
+<PastPart>AHIJADO.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444718.xml
+-----------------
+
+<entry>VENEG.</entry>
+<check>AHILAR.</check>
+  <subentry>AHILAR.</subentry>
+<entry>AHILARSE.</entry>
+  <subentry>AHILARSE.</subentry>
+  <subentry>AHILARSE.</subentry>
+<PastPart>AHILADO, DA.</PastPart>
+<entry>AHILO</entry>
+<entry>AHINA.</entry>
+<entry>AHINCADAMENTE.</entry>
+<entry>AHINCANZA.</entry>
+<entry>AHINCAR.</entry>
+<entry>AHINCO.</entry>
+<entry>AHINOJARSE.</entry>
+<PastPart>AHINOJADO, DA.</PastPart>
+<entry>AHIRMAR, O AHIRMARSE.</entry>
+<PastPart>AHIRMADO, DA.</PastPart>
+<entry>AHITAR.</entry>
+<entry>AHITARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444719.xml
+-----------------
+
+  <subentry>AHITARSE CON UN PIñON.</subentry>
+<PastPart>AHITADO, DA.</PastPart>
+<entry>AHITERA</entry>
+<entry>AHITO, TA.</entry>
+  <subentry>AHITO.</subentry>
+  <subentry>AHITO.</subentry>
+<skip>A HITO.</skip>
+<entry>AHO.</entry>
+<entry>AHOBACHONDO, DA.</entry>
+<entry>AHOCINARSE.</entry>
+<PastPart>AHOCINADO.</PastPart>
+<entry>AHOGADERO.</entry>
+  <subentry>AHOGADERO.</subentry>
+  <subentry>AHOGADERO.</subentry>
+  <subentry>AHOGADERO.</subentry>
+<entry>AHOGADIZO, ZA.</entry>
+<entry>AHOGAMIENTO.</entry>
+<entry>AHOGAR.</entry>
+  <subentry>AHOGAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444720.xml
+-----------------
+
+  <subentry>AHOGAR.</subentry>
+  <subentry>AHOGAR.</subentry>
+<entry>AHOGARSE.</entry>
+  <subentry>AHOGARSE DE CALOR.</subentry>
+  <subentry>AHOGARSE DE GENTE.</subentry>
+  <subentry>AHOGARSE EL GRANO.</subentry>
+  <subentry>AHOGARSE EN POCA AGUA.</subentry>
+<check>AHOGAR LAS PENDENCIAS.</check>
+<entry>PIC. JUST.</entry>
+<check>AHOGADO, DA.</check>
+<entry>AHOGO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444721.xml
+-----------------
+
+<entry>AHOJAR.</entry>
+<entry>AHOMBRADA.</entry>
+<skip>A HOMBRO.</skip>
+<entry>AHONDAR.</entry>
+  <subentry>AHONDAR.</subentry>
+  <subentry>AHONDAR.</subentry>
+<PastPart>AHONDADO, DA.</PastPart>
+<entry>AHORA.</entry>
+  <subentry>AHORA AHORA.</subentry>
+  <subentry>AHORA BIEN.</subentry>
+<entry>AHORCADOR.</entry>
+<entry>AHORCAJADAS, O AHORCAJADILLAS.</entry>
+<entry>AHORCAJARSE.</entry>
+<entry>AHORCAR.</entry>
+  <subentry>AHORCAR.</subentry>
+<entry>AHORCARSE.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444722.xml
+-----------------
+
+<check>300.</check>
+<check>AHORCAR EL VOTO.</check>
+  <subentry>AHORCAR LOS HABITOS.</subentry>
+<PastPart>AHORCADO, DA.</PastPart>
+<PastPart>AHORCADO SEA TAL BARATO.</PastPart>
+<entry>PIC. JUST.</entry>
+<check>JACINT. POL.</check>
+<check>AHORMAR.</check>
+  <subentry>AHORMAR.</subentry>
+<PastPart>AHORMADO, DA.</PastPart>
+<entry>AHORNAGAMIENTO.</entry>
+<entry>AHORNAGARSE.</entry>
+<entry>AHORNAR.</entry>
+<entry>AHORNARSE.</entry>
+<PastPart>AHORNADO.</PastPart>
+<entry>AHORQUILLAR.</entry>
+<PastPart>AHORQUILLADO, DA.</PastPart>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444723.xml
+-----------------
+
+<entry>AHORRAR.</entry>
+  <subentry>AHORRAR.</subentry>
+  <subentry>AHORRAR.</subentry>
+  <subentry>AHORRAR.</subentry>
+<entry>AHORRARSE.</entry>
+<PastPart>AHORRADO, DA.</PastPart>
+<PastPart>AHORRADO.</PastPart>
+<entry>AHORRATIVO, VA.</entry>
+<entry>AHORRO.</entry>
+  <subentry>AHORRO.</subentry>
+<entry>AHOYADURA</entry>
+<entry>AHOYAR.</entry>
+<entry>AHUCHADOR</entry>
+<entry>AHUCHAR.</entry>
+<PastPart>AHUCHADO, DA.</PastPart>
+<check>AHUCIAR.</check>
+<entry>AHUECAMIENTO.</entry>
+<entry>AHUECAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444724.xml
+-----------------
+
+  <subentry>AHUECAR.</subentry>
+<entry>AHUECARSE.</entry>
+<PastPart>AHUECADO, DA.</PastPart>
+<entry>AHUELO, LA.</entry>
+<entry>AHUMADA.</entry>
+<entry>AHUMAR.</entry>
+  <subentry>AHUMAR.</subentry>
+  <subentry>AHUMAR.</subentry>
+<PastPart>AHUMADO, DA.</PastPart>
+<entry>AHUMO DE PAJAS.</entry>
+<entry>AHUN.</entry>
+<entry>AHUNQUE.</entry>
+<entry>AHURTA CORDEL.</entry>
+<entry>AHURTADILLAS.</entry>
+<entry>AHUSADO, DA.</entry>
+<entry>AHUYENTAR.</entry>
+  <subentry>AHUYENTAR.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444725.xml
+-----------------
+
+<PastPart>AHUYENTADO, DA.</PastPart>
+<entry>AIDORO.</entry>
+<entry>AINA.</entry>
+<entry>AINAS.</entry>
+<entry>AIRARSE.</entry>
+<PastPart>AIRADO, DA.</PastPart>
+<entry>AIRE.</entry>
+  <subentry>AIRE.</subentry>
+  <subentry>AIRE CORRUTO.</subentry>
+  <subentry>AIRE DE MUSICA.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444726.xml
+-----------------
+
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444727.xml
+-----------------
+
+<entry>AIREARSE.</entry>
+<entry>AIRECILLO.</entry>
+<entry>AIRON.</entry>
+<entry>AIROSAMENTE.</entry>
+<entry>AIROSIDAD.</entry>
+<entry>AIROSO, SA.</entry>
+  <subentry>AIROSO.</subentry>
+<entry>AISLAR.</entry>
+  <subentry>AISLAR.</subentry>
+<PastPart>AISLADO, DA.</PastPart>
+<entry>AJADA</entry>
+<entry>AJAMIENTO.</entry>
+  <subentry>AJAMIENTO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444728.xml
+-----------------
+
+<entry>AJAR.</entry>
+  <subentry>AJAR.</subentry>
+  <subentry>AJAR LA HERMOSURA, O LA BELLEZA.</subentry>
+<PastPart>AJADO, DA.</PastPart>
+<entry>AJENADOR.</entry>
+<entry>AJENAR.</entry>
+<entry>AJENO, NA.</entry>
+  <subentry>AJENO.</subentry>
+  <subentry>AJENO.</subentry>
+  <subentry>AJENO DE SI.</subentry>
+<entry>AJETE</entry>
+  <subentry>AJETE.</subentry>
+<entry>AJICOLA</entry>
+<entry>AJILIMOGE.</entry>
+<entry>AJILLO.</entry>
+  <subentry>AJILLO Y MOJILLO.</subentry>
+<entry>AJO.</entry>
+  <subentry>AJO.</subentry>
+  <subentry>AJO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444729.xml
+-----------------
+
+  <subentry>AJO PORRUNO.</subentry>
+  <subentry>AJO SYLVESTRE O CASTAñUELO.</subentry>
+  <subentry>AJO DE VALDESTILLAS.</subentry>
+<entry>QUEV.</entry>
+<check>AJO CRUDO, Y VINO PURO PASSAN EL PUERTO SE- GURO.</check>
+  <subentry>AJO POR QUE NO FUISTE BUENO? PORQUE NO ME HALLO SAN MARTIN PUESTO.</subentry>
+<entry>AJOBAR.</entry>
+<entry>AJOBO.</entry>
+<entry>AJOLIO</entry>
+<entry>AJONGE.</entry>
+<entry>AJONJERA.</entry>
+<entry>AJONJOLI.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444730.xml
+-----------------
+
+<entry>AJORAR.</entry>
+<PastPart>AJORADO, DA.</PastPart>
+<entry>AJORCAS.</entry>
+<entry>AJORDAR.</entry>
+<entry>AJORNALADO, DA.</entry>
+<entry>AJORRO.</entry>
+<entry>AJUAGAS.</entry>
+<entry>AJUANETADO, DA.</entry>
+<entry>AJUAR.</entry>
+<entry>AJUICIAR.</entry>
+<PastPart>AJUICIADO, DA.</PastPart>
+<entry>AJUNTAMIENTO.</entry>
+<entry>AJUNTANZA.</entry>
+<entry>AJUNTAR, Y AJUNTARSE.</entry>
+<PastPart>AJUNTADO, DA.</PastPart>
+<entry>AJUSTADAMENTE.</entry>
+<entry>AJUSTADOR</entry>
+<entry>AJUSTAMIENTO.</entry>
+  <subentry>AJUSTAMIENTO.</subentry>
+  <subentry>AJUSTAMIENTO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444731.xml
+-----------------
+
+  <subentry>AJUSTAMIENTO DE CUENTAS.</subentry>
+<entry>AJUSTAR.</entry>
+<entry>AJUSTARSE.</entry>
+  <subentry>AJUSTARSE.</subentry>
+  <subentry>AJUSTARSE.</subentry>
+<check>AJUSTADME ESSAS MEDIDAS.</check>
+<entry>AJUSTAR A UNO LA GOLILLA.</entry>
+  <subentry>AJUSTAR CUENTAS.</subentry>
+  <subentry>AJUSTAR EL PRECIO DE ALGUNA COSA.</subentry>
+  <subentry>AJUSTAR EL VESTIDO, JUBON, CASACA,</subentry>
+  <subentry>AJUSTAR LA VIDA.</subentry>
+  <subentry>AJUSTAR PACES, NEGOCIOS, PENDENCIAS,</subentry>
+<entry>AJUSTARSE AL TIEMPO, O CON EL TIEMPO.</entry>
+  <subentry>AJUSTARSE CON SU CONCIENCIA.</subentry>
+<PastPart>AJUSTADO, DA.</PastPart>
+<PastPart>AJUSTADO.</PastPart>
+<entry>AJUSTE.</entry>
+<entry>AJUSTICIAR.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444732.xml
+-----------------
+
+<PastPart>AJUSTICIADO, DA.</PastPart>
+<entry>AL.</entry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL.</subentry>
+  <subentry>AL MADRINA, QUE ESSO YO ME LO SABIA.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444733.xml
+-----------------
+
+<entry>ALA.</entry>
+<entry>ALAS.</entry>
+  <subentry>ALAS.</subentry>
+<check>ALA.</check>
+  <subentry>ALA.</subentry>
+<entry>ALAS.</entry>
+  <subentry>ALAS.</subentry>
+<check>ALA DE MOSCA.</check>
+<entry>ALAS DEL CORAZON.</entry>
+  <subentry>ALAS DEL DESEO.</subentry>
+  <subentry>ALAS DEL PENSAMIENTO.</subentry>
+  <subentry>ALAS DEL VIENTO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444734.xml
+-----------------
+
+<check>ALA.</check>
+  <subentry>ALA.</subentry>
+  <subentry>ALA.</subentry>
+  <subentry>ALA.</subentry>
+<Itypo>ALABADlSSIMO, MA.</Itypo>
+<entry>ALABADOR.</entry>
+<entry>ALABAMIENTO.</entry>
+<entry>ALABANCERO, RA.</entry>
+<entry>ALABANCIOSO, SA.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444735.xml
+-----------------
+
+<entry>ALABANDINA.</entry>
+<entry>ALABANZA.</entry>
+<entry>ALABAR.</entry>
+<entry>ALABARSE.</entry>
+<entry>ALABEMONOS YA QUE NO NOS ALABAN.</entry>
+<entry>ALABO EL GUSTO.</entry>
+  <subentry>ALABO LA LLANEZA.</subentry>
+<skip>Y</skip>
+<check>ALABAOS COLES QUE HAI NABOS EN LA OLLA.</check>
+<entry>ALABATE CESTO QUE VENDERTE QUIERO.</entry>
+  <subentry>ALABATE POLLA QUE HAS PUESTO UN HUEVO, Y ESSE HUERO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444736.xml
+-----------------
+
+<check>............................</check>
+<check>ALABADO, DA.</check>
+  <subentry>ALABADO.</subentry>
+<entry>ALABARDA.</entry>
+<skip>Y</skip>
+  <subentry>ALABARDA.</subentry>
+<entry>ALABARDAZO.</entry>
+<entry>ALABARDERO.</entry>
+<entry>ALABASTRINO, NA.</entry>
+<check>ALABASTRINAS.</check>
+<entry>ALABASTRO.</entry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444737.xml
+-----------------
+
+  <subentry>ALABASTRO.</subentry>
+  <subentry>ALABASTRO.</subentry>
+<entry>ALABEAR.</entry>
+<entry>ALABEGA</entry>
+<entry>ALABEO</entry>
+<entry>ALABESA.</entry>
+<entry>ALABEZ.</entry>
+<entry>ALACAYO.</entry>
+<entry>ALACAYUELO.</entry>
+<entry>ALACENA.</entry>
+<entry>ALACHA.</entry>
+<check>ALACRAN.</check>
+  <subentry>ALACRAN.</subentry>
+<entry>ALACRANES.</entry>
+<check>ALACRAN CEBOLLERO.</check>
+  <subentry>ALACRAN MARINO.</subentry>
+-----------------
+
+/home/rafa/github/impactcentre/groundtruth-spa/DiccionarioAutoridades/A-B/pc-00444738.xml
+-----------------
+

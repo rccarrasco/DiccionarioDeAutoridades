@@ -162,6 +162,16 @@ public class Split {
     }
 
     /**
+     * Remove leading and trailing punctuation
+     *
+     * @param entry
+     * @return the entry without the leading and trailing punctuation characters
+     */
+    private static String strip(String entry) {
+        return entry.replaceAll("^\\p{Punct}", "").replaceAll("\\p{Punct}$", "");
+    }
+
+    /**
      * Test if a string can be the initial segment of a new sentence or
      * paragraph: punctuation (optional) followed by a mixed case word with only
      * the initial letter is uppercase and ended by optional punctuation/space
@@ -201,12 +211,12 @@ public class Split {
                     } else {
                         int n = collator.compare(last, start);
                         if (n < 0) {
-                            System.out.println("<entry>" + head + "</entry>");
+                            System.out.println("<entry>" + strip(head) + "</entry>");
                             last = start;
                         } else if (n == 0) {
-                            System.out.println("  <subentry>" + head + "</subentry>");
+                            System.out.println("  <subentry>" + strip(head) + "</subentry>");
                         } else if (isParticiple(start, last)) {
-                            System.out.println("<PastPart>" + head + "</PastPart>");
+                            System.out.println("<PastPart>" + strip(head) + "</PastPart>");
                         } else {
                             System.out.println("<check>" + head + "</check>");
                             last = start;
@@ -218,7 +228,7 @@ public class Split {
                     String s = start.replaceAll("l", "I");
                     if (WordType.typeOf(s) == WordType.UPPERCASE) {
                         // wrong transcription
-                        System.out.println("<Itypo>" + head + "</Itypo>");
+                        System.out.println("<Itypo>" + strip(head) + "</Itypo>");
                         last = s;
                     } else if (WordType.nearlyUpper(start)) {
                         // a single mismatch
@@ -262,7 +272,7 @@ public class Split {
     /**
      * Print entries in a collection of files
      *
-     * @param args XML file names 
+     * @param args XML file names
      */
     public static void main(String[] args) {
         if (args.length == 0) {
@@ -275,8 +285,8 @@ public class Split {
                 System.out.println(file);
                 System.out.println("-----------------");
                 //Split.viewHeaders(file);  
-                try  {
-                lastEntry = Split.split(file, lastEntry);
+                try {
+                    lastEntry = Split.split(file, lastEntry);
                 } catch (IOException ex) {
                     System.out.println("Wrong file");
                 }

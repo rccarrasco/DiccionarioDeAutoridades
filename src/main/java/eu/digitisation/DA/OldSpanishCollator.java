@@ -30,7 +30,7 @@ import eu.digitisation.log.Messages;
  */
 public class OldSpanishCollator {
 
-    final static String nTilde = "\u00F1";    // ñ
+    final static String nTilde = "\u00F1";  // ñ
     final static String NTilde = "\u00D1";  // Ñ
     final static String rules = ("< a,A < b,B < c,C "
             + "< ch, cH, Ch, CH "
@@ -43,14 +43,14 @@ public class OldSpanishCollator {
             + "< s,S < t,T < u,U < v,V < w,W < x,X "
             + "< y,Y < z,Z");
 
-   
-    
     public static Collator getInstance() {
         try {
             return new RuleBasedCollator(rules);
         } catch (ParseException ex) {
             Messages.severe(ex.getMessage());
-            return Collator.getInstance(Locale.FRENCH);
+            Collator collator = Collator.getInstance(new Locale("spa"));
+            collator.setStrength(Collator.PRIMARY);
+            return collator;
         }
     }
 }

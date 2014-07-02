@@ -19,33 +19,42 @@ package eu.digitisation.DA;
 
 /**
  * Classifies word according to case.
- * <p>UPPERCASE: all characters uppercase</p>
- * <p>LOWERCASE: all characters lowercase</p>
- * <p>MIXED: upper and lowercase characters</p>
+ * <p>
+ * UPPERCASE: all characters uppercase</p>
+ * <p>
+ * LOWERCASE: all characters lowercase</p>
+ * <p>
+ * MIXED: upper and lowercase characters</p>
  *
  * @author R.C.C
  */
 public enum WordType {
 
-    UPPERCASE, LOWERCASE, MIXED;
+    UPPERCASE, LOWERCASE, MIXEDCASE, PUNCT, UNKNOWN;
 
     public static WordType typeOf(String word) {
-        if (word.matches("\\p{Lu}+")) {
-            return UPPERCASE;
-        } else if (word.matches("[\\p{L}&&[^\\p{Lu}]]+")) {
-            return LOWERCASE;
+        if (word.matches("\\p{L}+")) {
+            if (word.matches("\\p{Lu}+")) {
+                return UPPERCASE;
+            } else if (word.matches("[\\p{L}&&[^\\p{Lu}]]+")) {
+                return LOWERCASE;
+            } else {
+                return MIXEDCASE;
+            }
+        } else if (word.matches("\\p{Punct}+")) {
+            return PUNCT;
         } else {
-            return MIXED;
+            return UNKNOWN;
         }
     }
-    
+
     /**
      * Test if a word with mixed type can be the initial word in a sentence or
      * paragraph (lowercase with first character uppercase)
      *
      * @param word a string
      * @return true if the word is a sequence of Unicode letters whose first
-     * letter is uppercase and all trailing letters are lowercase 
+     * letter is uppercase and all trailing letters are lowercase
      */
     public static boolean isFirstWordInSentence(String word) {
         return word.matches("\\p{Punct}*\\p{Lu}[\\p{L}&&[^\\p{Lu}]]*");
@@ -59,5 +68,14 @@ public enum WordType {
      */
     public static boolean nearlyUpper(String word) {
         return word.matches("\\p{Lu}+\\p{L}\\p{Lu}+|\\p{L}\\p{Lu}{2,}|\\p{Lu}{2,}\\p{L}");
+    }
+
+    /**
+     *
+     * @param s string
+     * @return true if s is a string of punctuation characters
+     */
+    public static boolean isPunct(String s) {
+        return s.length() > 0 && s.matches("\\p{Punct}+");
     }
 }

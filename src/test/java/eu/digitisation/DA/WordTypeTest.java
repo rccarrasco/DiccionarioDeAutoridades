@@ -31,12 +31,19 @@ public class WordTypeTest {
         System.out.println("typeOf");
         assertEquals(WordType.UPPERCASE, WordType.typeOf("UP"));
         assertEquals(WordType.LOWERCASE, WordType.typeOf("low"));
-        assertEquals(WordType.MIXED, WordType.typeOf("LaTeX"));
+        assertEquals(WordType.MIXEDCASE, WordType.typeOf("LaTeX"));
+        assertEquals(WordType.PUNCT, WordType.typeOf("..!"));
+        assertEquals(WordType.UNKNOWN, WordType.typeOf("Hey!"));
         assert (WordType.nearlyUpper("MIsTAKE"));
         assert (WordType.nearlyUpper("MIs"));
         assert (!WordType.nearlyUpper("La"));
         assert (WordType.isFirstWordInSentence("L"));
         assert (WordType.isFirstWordInSentence("La"));
         assert (!WordType.isFirstWordInSentence("MIs"));
+    }
+
+    @Test
+    public void testIsPunct() {
+        assert (WordType.isPunct("...."));
     }
 }

@@ -18,7 +18,7 @@
 package eu.digitisation.DA;
 
 import static eu.digitisation.DA.WordType.LOWERCASE;
-import static eu.digitisation.DA.WordType.MIXED;
+import static eu.digitisation.DA.WordType.MIXEDCASE;
 import static eu.digitisation.DA.WordType.UPPERCASE;
 import eu.digitisation.layout.SortPageXML;
 import eu.digitisation.log.Messages;
@@ -94,26 +94,30 @@ public class Split {
         String[] tokens = cfilter.translate(text).split("\\p{Space}+");
 
         for (String token : tokens) {
+            // remove leading and trailing punctuation & spaces
             String word = StringNormalizer.trim(token);
-
-            switch (WordType.typeOf(word)) {
-                case UPPERCASE: // header word
-                    if (builder.length() > 0) {
-                        builder.append(' ');
-                    }
-                    builder.append(token);
-                    break;
-                case LOWERCASE: // end of header
-                    return builder.toString();
-                case MIXED: // striking content
-                    if (WordType.isFirstWordInSentence(word)) {
-                        return builder.toString();
-                    } else {
+            if (word.length() > 0) {
+                switch (WordType.typeOf(word)) {
+                    case UPPERCASE: // header word
                         if (builder.length() > 0) {
                             builder.append(' ');
                         }
                         builder.append(token);
-                    }
+                        break;
+                    case LOWERCASE:
+                        // end of header reached
+                        return builder.toString();
+                    case MIXEDCASE:
+                        if (WordType.isFirstWordInSentence(word)) {
+                            // end of header reached
+                            return builder.toString();
+                        } else { // striking content: it must be anylised
+                            if (builder.length() > 0) {
+                                builder.append(' ');
+                            }
+                            builder.append(token);
+                        }
+                }
             }
         }
         return builder.toString();
@@ -151,7 +155,7 @@ public class Split {
     /**
      *
      * @param text a string of text
-     * @return the firstWord word (sequence of consecutive letters) in the text
+     * @return the first word (sequence of consecutive letters) in the text
      */
     private static String firstWord(String text) {
         if (text.length() > 0 && Character.isLetter(text.charAt(0))) {
@@ -159,16 +163,6 @@ public class Split {
         } else {
             return "";
         }
-    }
-
-    /**
-     * Remove leading and trailing punctuation
-     *
-     * @param entry
-     * @return the entry without the leading and trailing punctuation characters
-     */
-    private static String strip(String entry) {
-        return entry.replaceAll("^\\p{Punct}", "").replaceAll("\\p{Punct}$", "");
     }
 
     /**
@@ -196,13 +190,15 @@ public class Split {
         for (String head : headers(doc)) {
             if (!head.isEmpty()) {
                 String start = firstWord(head).replaceAll("ñ", "Ñ"); // no N tilde
+                WordType type = WordType.typeOf(start);
                 //System.out.println(text);
-                if (WordType.typeOf(start) == WordType.UPPERCASE) {
+                if (type == WordType.UPPERCASE) {
                     // Discard connectors
                     if (start.length() == 1 && start.matches("[AOY]")
                             && last.length() > 0) {
-                        if (Character.codePointAt(start, 0)
-                                == Character.codePointAt(last, 0) + 1) {
+                        int first = Character.codePointAt(start, 0);
+                        int ref = Character.codePointAt(last, 0);
+                        if (first == ref || first == ref + 1) {
                             System.out.println("<check>" + head + "</check>");
                         } else {
                             System.out.println("<skip>" + head + "</skip>");
@@ -211,30 +207,45 @@ public class Split {
                     } else {
                         int n = collator.compare(last, start);
                         if (n < 0) {
-                            System.out.println("<entry>" + strip(head) + "</entry>");
+                            System.out.println("<entry>"
+                                    + StringNormalizer.trim(head) + "</entry>");
                             last = start;
                         } else if (n == 0) {
-                            System.out.println("  <subentry>" + strip(head) + "</subentry>");
+                            System.out.println("  <subentry>"
+                                    + StringNormalizer.trim(head) + "</subentry>");
                         } else if (isParticiple(start, last)) {
-                            System.out.println("<PastPart>" + strip(head) + "</PastPart>");
+                            System.out.println("<PastPart>"
+                                    + StringNormalizer.trim(head) + "</PastPart>");
                         } else {
-                            System.out.println("<check>" + head + "</check>");
+                            System.out.println("<check reason=\"sort\">"
+                                    + head + "</check>");
                             last = start;
                         }
                     }
-                } else if (isSentenceHead(head)) {
-                    System.out.println("<skip>" + head + "</skip>");
-                } else {
-                    String s = start.replaceAll("l", "I");
-                    if (WordType.typeOf(s) == WordType.UPPERCASE) {
-                        // wrong transcription
-                        System.out.println("<Itypo>" + strip(head) + "</Itypo>");
-                        last = s;
-                    } else if (WordType.nearlyUpper(start)) {
-                        // a single mismatch
-                        System.out.println("<check>" + head + "</check>");
+                } else if (type == WordType.MIXEDCASE) {
+                    if (isSentenceHead(head)) {
+                        // this should not happen
+                        System.out.println("<skip>" + head + "</skip>");
+
                     } else {
-                        System.out.println("<check>" + head + "</check>");
+                        String s = start.replaceAll("l", "I");
+                        if (WordType.typeOf(s) == WordType.UPPERCASE) {
+                            // wrong transcription
+                            System.out.println("<Itypo>"
+                                    + StringNormalizer.trim(head) + "</Itypo>");
+                            last = s;
+
+                        } else if (WordType.isPunct(start)) {
+                            System.out.println("<skip reason=\"punt\">"
+                                    + head + "</skip>");
+                        } else if (WordType.nearlyUpper(start)) {
+                            // a single mismatch
+                            System.out.println("<check priority=\"high\">"
+                                    + head + "</check>");
+                        } else {
+                            System.out.println("<check priority=\"low\">"
+                                    + head + "</check>");
+                        }
                     }
                 }
             }
@@ -279,18 +290,20 @@ public class Split {
             System.err.println("Usage: Split file1.xml file2.xml ...");
         } else {
             String lastEntry = "";
+            System.out.println("<DA>");
             for (String arg : args) {
                 File file = new File(arg);
-                System.out.println("-----------------");
-                System.out.println(file);
-                System.out.println("-----------------");
+                System.out.println("<file>");
+                System.out.println("<id>" + file + "</id>");
                 //Split.viewHeaders(file);  
                 try {
                     lastEntry = Split.split(file, lastEntry);
                 } catch (IOException ex) {
                     System.out.println("Wrong file");
                 }
+                System.out.println("</file>");
             }
+            System.out.println("</DA>");
         }
     }
 }
